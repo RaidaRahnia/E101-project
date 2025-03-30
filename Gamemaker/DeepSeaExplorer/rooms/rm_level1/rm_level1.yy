@@ -1,15 +1,15 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room1",
+  "%Name":"rm_level1",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_B3ADD6E","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_A4F7ECB","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_444ED733","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_2B0D4C78","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_B3ADD6E","path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"inst_A4F7ECB","path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"inst_444ED733","path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"inst_2B0D4C78","path":"rooms/rm_level1/rm_level1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,7 +24,7 @@
     {"$GMRBackgroundLayer":"","%Name":"Backgrounds_1","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Backgrounds_1","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Background2","path":"sprites/Background2/Background2.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":320,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":0.0,"animationSpeedType":0,"colour":4294967295,"depth":400,"effectEnabled":true,"effectType":"none","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.3,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Background","path":"sprites/Background/Background.yy",},"stretch":false,"userdefinedAnimFPS":true,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
-  "name":"Room1",
+  "name":"rm_level1",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
