@@ -25,6 +25,8 @@ if keyboard_check(vk_right) {
     sprite_index = spr_player_right; // Change to right-facing sprite
 }
 
+
+
 // Move left
 if keyboard_check(vk_left) {
     if !place_meeting(x - 5, y, obj_jellyfish) {
