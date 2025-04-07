@@ -44,6 +44,7 @@ if obj != noone && point_distance(x, y, obj.x, obj.y) < 150 { // Adjust distance
     if keyboard_check_pressed(ord("E")) {
         // Code to interact with the object
         // Create textbox instance
+		audio_play_sound(Single_Cartoon_Metal_Thunk,0,false);
         var textbox = instance_create_layer(x, y - 60, "Instances", obj_txtbox);
 		textbox.message = scr_wrap_text("Fun Fact! Jellyfish are about 95% to 98% water and don't actually have a brain, heart, or lungs. Lots of jellyfish have a very short lifespan but one, Turritopsis dohrnii, is an immortal jellyfish that can restart it's life cycle when under stress or grows old.", 380);  // Set the message// Adjust position as needed
 		
