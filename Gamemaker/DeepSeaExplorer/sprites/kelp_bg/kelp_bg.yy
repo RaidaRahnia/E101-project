@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"kelp_bg",
   "bboxMode":0,
-  "bbox_bottom":2999,
+  "bbox_bottom":470,
   "bbox_left":0,
-  "bbox_right":5332,
+  "bbox_right":836,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":3000,
+  "height":471,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"b9e96f3a-b354-47ef-990a-e2bab10673d9","blendMode":0,"displayName":"default","isLocked":false,"name":"b9e96f3a-b354-47ef-990a-e2bab10673d9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":5333,
+  "width":837,
 }
