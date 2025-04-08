@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"DeepSeaExplorer",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -26,13 +26,14 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"PeaberryMono.ttf","CopyToMask":-1,"filePath":"datafiles","name":"PeaberryMono.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"DeepSeaExplorer",
   "resources":[
@@ -78,6 +79,10 @@
     {"id":{"name":"coral2","path":"sprites/coral2/coral2.yy",},},
     {"id":{"name":"coral3","path":"sprites/coral3/coral3.yy",},},
     {"id":{"name":"coral4","path":"sprites/coral4/coral4.yy",},},
+    {"id":{"name":"coralreef_bg1","path":"sprites/coralreef_bg1/coralreef_bg1.yy",},},
+    {"id":{"name":"coralreef_bg2","path":"sprites/coralreef_bg2/coralreef_bg2.yy",},},
+    {"id":{"name":"coralreef_fg","path":"sprites/coralreef_fg/coralreef_fg.yy",},},
+    {"id":{"name":"coralreef_sand","path":"sprites/coralreef_sand/coralreef_sand.yy",},},
     {"id":{"name":"dolphin","path":"sprites/dolphin/dolphin.yy",},},
     {"id":{"name":"fish1","path":"sprites/fish1/fish1.yy",},},
     {"id":{"name":"fish2","path":"sprites/fish2/fish2.yy",},},
@@ -85,6 +90,7 @@
     {"id":{"name":"fish4","path":"sprites/fish4/fish4.yy",},},
     {"id":{"name":"fish5","path":"sprites/fish5/fish5.yy",},},
     {"id":{"name":"fish6","path":"sprites/fish6/fish6.yy",},},
+    {"id":{"name":"interaction_icon","path":"sprites/interaction_icon/interaction_icon.yy",},},
     {"id":{"name":"jellyfish","path":"sprites/jellyfish/jellyfish.yy",},},
     {"id":{"name":"kelp_bg","path":"sprites/kelp_bg/kelp_bg.yy",},},
     {"id":{"name":"kelp_fg","path":"sprites/kelp_fg/kelp_fg.yy",},},
