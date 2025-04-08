@@ -1,0 +1,1 @@
+draw_text_transformed(x, y, question_text, 1, 1, 0); // Adjust scaling and angle as needed)

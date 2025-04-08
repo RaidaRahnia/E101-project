@@ -1,0 +1,1 @@
+draw_button(x - sprite_width / 2, y - sprite_height / 2, x + sprite_width / 2, y + sprite_height / 2, false); // Assuming you have a button sprite

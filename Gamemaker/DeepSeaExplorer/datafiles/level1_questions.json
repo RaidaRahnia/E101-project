@@ -1,0 +1,47 @@
+[
+    {
+      "question_text": "How do dolphins communicate?",
+      "options": ["Through singing", "Through echolocation", "Through body language", "Through telepathy"],
+      "correct_answer": "Through echolocation"
+    },
+    {
+      "question_text": "Why is algae and seaweed important?",
+      "options": ["They are a food source for whales", "They produce a majority of the oxygen we breathe", "They provide shelter for small fish", "They make the water clearer"],
+      "correct_answer": "They produce a majority of the oxygen we breathe"
+    },
+    {
+      "question_text": "Why are sharks and predators important to an ecosystem?",
+      "options": ["They provide food for smaller fish", "They regulate prey populations", "They make the ocean more dangerous", "They help plants grow"],
+      "correct_answer": "They regulate prey populations"
+    },
+    {
+      "question_text": "What kind of animals are turtles?",
+      "options": ["Mammals", "Amphibians", "Reptiles", "Fish"],
+      "correct_answer": "Reptiles"
+    },
+    {
+      "question_text": "What is the percentage of juvenile turtles that reach adulthood?",
+      "options": ["1%", "10%", "0.1%", "50%"],
+      "correct_answer": "0.1%"
+    },
+    {
+      "question_text": "What's the name of the largest fish?",
+      "options": ["Great White Shark", "Blue Whale", "Whale Shark", "Megalodon"],
+      "correct_answer": "Whale Shark"
+    },
+    {
+      "question_text": "What kind of animals are shrimp?",
+      "options": ["Mammals", "Crustaceans", "Mollusks", "Fish"],
+      "correct_answer": "Crustaceans"
+    },
+    {
+      "question_text": "How strong can some species of shrimp be?",
+      "options": ["They can lift objects twice their weight", "They can break aquarium glass with powerful strikes", "They can survive out of water for a week", "They can change their color to camouflage"],
+      "correct_answer": "They can break aquarium glass with powerful strikes"
+    },
+    {
+      "question_text": "What do reptiles mostly do?",
+      "options": ["Give live birth", "Lay eggs", "Live in water", "Have feathers"],
+      "correct_answer": "Lay eggs"
+    }
+  ]
