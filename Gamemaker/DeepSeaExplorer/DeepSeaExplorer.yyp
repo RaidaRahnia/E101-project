@@ -26,7 +26,9 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"PeaberryMono.ttf","CopyToMask":-1,"filePath":"datafiles","name":"PeaberryMono.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -36,6 +38,7 @@
   "resources":[
     {"id":{"name":"font_default","path":"fonts/font_default/font_default.yy",},},
     {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},},
+    {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
     {"id":{"name":"kelp_obj1","path":"objects/kelp_obj1/kelp_obj1.yy",},},
     {"id":{"name":"kelp_obj2","path":"objects/kelp_obj2/kelp_obj2.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
@@ -47,7 +50,6 @@
     {"id":{"name":"obj_npc_parent","path":"objects/obj_npc_parent/obj_npc_parent.yy",},},
     {"id":{"name":"obj_submarine_dark","path":"objects/obj_submarine_dark/obj_submarine_dark.yy",},},
     {"id":{"name":"obj_submarine","path":"objects/obj_submarine/obj_submarine.yy",},},
-    {"id":{"name":"obj_txtbox","path":"objects/obj_txtbox/obj_txtbox.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"id":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
