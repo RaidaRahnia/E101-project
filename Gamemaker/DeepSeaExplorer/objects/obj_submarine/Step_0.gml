@@ -1,3 +1,7 @@
+
+if(instance_exists(obj_dialog)) exit;
+    
+
 // Move up
 if keyboard_check(vk_up) {
     if !place_meeting(x, y - 5, obj_jellyfish) {
