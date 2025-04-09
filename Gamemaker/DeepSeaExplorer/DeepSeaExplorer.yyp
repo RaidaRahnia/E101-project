@@ -28,11 +28,7 @@
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
-<<<<<<< HEAD
     {"$GMIncludedFile":"","%Name":"level1_questions.json","CopyToMask":3035426170322551022,"filePath":"datafiles","name":"level1_questions.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-=======
-    {"$GMIncludedFile":"","%Name":"level1_questions.json","CopyToMask":-1,"filePath":"datafiles","name":"level1_questions.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
->>>>>>> 7e73859b221db1b235d214acb631005dd3efbedb
     {"$GMIncludedFile":"","%Name":"PeaberryMono.ttf","CopyToMask":-1,"filePath":"datafiles","name":"PeaberryMono.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"test..txt","CopyToMask":-1,"filePath":"datafiles","name":"test..txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
@@ -113,9 +109,6 @@
     {"id":{"name":"fish6","path":"sprites/fish6/fish6.yy",},},
     {"id":{"name":"interaction_icon","path":"sprites/interaction_icon/interaction_icon.yy",},},
     {"id":{"name":"jellyfish","path":"sprites/jellyfish/jellyfish.yy",},},
-    {"id":{"name":"jellyfish2","path":"sprites/jellyfish2/jellyfish2.yy",},},
-    {"id":{"name":"jellyfish3","path":"sprites/jellyfish3/jellyfish3.yy",},},
-    {"id":{"name":"jellyfish4","path":"sprites/jellyfish4/jellyfish4.yy",},},
     {"id":{"name":"kelp_bg","path":"sprites/kelp_bg/kelp_bg.yy",},},
     {"id":{"name":"kelp_fg","path":"sprites/kelp_fg/kelp_fg.yy",},},
     {"id":{"name":"kelp_flatbg","path":"sprites/kelp_flatbg/kelp_flatbg.yy",},},
