@@ -111,7 +111,7 @@ dolphin_dialog = [
 
 ]
 
-fish1_dialog = [
+fish5_dialog = [
 {
     name: "Fun Fact!",
     msg: "Have you ever wondered how fish sleep underwater? " 
@@ -129,4 +129,151 @@ fish1_dialog = [
 
 
 ]
+
+fish2_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "There is a myth that goldfish have a three-second memory." 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "Studies show that fish can remember things for months, even years and show sophisticated behaviours based on their learning." 
+},
+
+
+]
+
+fish3_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "Some fish have specialized organs called electroreceptors that can help them to track their prey by detecting electrical signals in the water." 
+},
+
+
+]
+
+fish4_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "Fish rely on dissolved oxygen to breath. " 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "If the water does not contain enough oxygen due to pollution, temperature changes, then fish can die." 
+},
+
+
+]
+
+fish1_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "Fishes communicate with each other in a variety of ways, including chirping, body movements, using their swim bladder, and in some cases, electrical impulses." 
+},
+
+]
+
+fish6_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "Some fishes are also known to change colours depending on camouflage needs, environmental conditions and time of the year." 
+},
+
+
+]
+
+octopus_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "Did you know octopi are incredibly intelligent?" 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "They are able to problem solve, learn, memorize, and communicate in their own ways." 
+},
+
+
+]
+
+starfish_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "Starfish population has been decreasing significantly due to ocean warming and diseases like sea star wasting syndrome, which causes their limbs to decay." 
+},
+
+]
+
+whale_dialog = [
+
+{
+    name: "Fun Fact!",
+    msg: "Did you know that whales actually have hair? " 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "Whales are some of the biggest mammals on earth. " 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "The blue whale specifically is actually the largest animal to be living on Earth right now." 
+},
+
+]
+
+anglerfish_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "Angler fish are also scavengers, an important class of organisms in ecosystems that eat dead or discarded organic matter (like vultures)." 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "They help break down dead plants and animals and keep the biome healthy! " 
+},
+
+
+]
+
+vampire_squid_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "In the midnight zone of the ocean (the depth at which no light reaches), various animals utilize bioluminescence to see and attract prey." 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "Bioluminescence is the emission of light by an organism through a chemical reaction." 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "The vampire squid uses bioluminescence to attract prey and can eject a cloud of bioluminescent mucus to distract and escape predators." 
+},
+
+
+]
+
+can_dialog = [
+{
+    name: "Fun Fact!",
+    msg: "Unfortunately, a lot of trash gets put into the ocean such as the Great Pacific Garbage Patch." 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "This is incredibly harmful to the ocean and kills a lot of organisms." 
+},
+
+
+]
+
+
+
+
+
 

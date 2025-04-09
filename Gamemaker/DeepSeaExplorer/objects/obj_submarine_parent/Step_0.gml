@@ -20,7 +20,7 @@ if keyboard_check(vk_right) {
     if x < room_width - sprite_width {
         x += 5;
     }
-    sprite_index = spr_player_right_dark; // Change to right-facing sprite
+    sprite_index = spr_player_right; // Change to right-facing sprite
 }
 
 
@@ -30,5 +30,5 @@ if keyboard_check(vk_left) {
     if x > 0 {
         x -= 5;
     }
-    sprite_index = spr_player_left_dark; // Change to left-facing sprite
+    sprite_index = spr_player_left; // Change to left-facing sprite
 }
