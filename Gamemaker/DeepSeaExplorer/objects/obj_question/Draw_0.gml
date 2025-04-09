@@ -1,1 +1,9 @@
-draw_text_transformed(x, y, question_text, 1, 1, 0); // Adjust scaling and angle as needed)
+draw_set_color(c_white);
+draw_set_halign(fa_center);
+draw_set_valign(fa_middle);
+draw_set_font(-1); // Or your custom font if you set one
+
+draw_text(room_width / 2, 100, question_text);
+
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
