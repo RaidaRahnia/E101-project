@@ -6,3 +6,5 @@ if (sprite_index == noone) {
 btn_index = 0;         // This will be overwritten by the manager when created
 button_text = "";      // The text to display; set by the manager
 manager = noone;       // A pointer that will reference the quiz manager instance
+
+font_answer = font_add("PeaberryMono.ttf", 17, false, false, 32, 128);

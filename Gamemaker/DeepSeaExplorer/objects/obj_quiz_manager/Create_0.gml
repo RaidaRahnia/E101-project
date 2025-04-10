@@ -9,11 +9,11 @@ quiz_data = [
          ["Through singing", "Through echolocation", "Through body language", "Through telepathy"],
          1],
     ["Why is algae and seaweed important?",
-         ["They are a food source for whales", "They produce a majority of the oxygen we breathe", "They provide shelter for small fish", "They make the water clearer"],
-         1],
+         ["They are a food source for whales", "They provide shelter for small fish", "They produce a majority of the oxygen we breathe", "They make the water clearer"],
+         2],
     ["Why are sharks and predators important to an ecosystem?",
-         ["They provide food for smaller fish", "They regulate prey populations", "They make the ocean more dangerous", "They help plants grow"],
-         1],
+         ["They regulate prey populations", "They provide food for smaller fish", "They make the ocean more dangerous", "They help plants grow"],
+         0],
     ["What kind of animals are turtles?",
          ["Mammals", "Amphibians", "Reptiles", "Fish"],
          2],
@@ -21,8 +21,8 @@ quiz_data = [
          ["1%", "10%", "0.1%", "50%"],
          2],
     ["What's the name of the largest fish?",
-         ["Great White Shark", "Blue Whale", "Whale Shark", "Megalodon"],
-         2]
+         ["Great White Shark", "Blue Whale","Megalodon","Whale Shark"],
+         3]
 ];
 
 current_question = 0;

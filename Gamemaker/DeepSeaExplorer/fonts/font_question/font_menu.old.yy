@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"font_default",
+  "%Name":"font_menu",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":14,
@@ -189,7 +189,7 @@
   "last":0,
   "lineHeight":18,
   "maintainGms1Font":false,
-  "name":"font_default",
+  "name":"font_menu",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",
@@ -206,7 +206,10 @@
   "sdfSpread":8,
   "size":12.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }
