@@ -37,6 +37,7 @@ if (quiz_state == "finished") {
                 show_debug_message("Score high enough! Proceeding to level 2");
                 room_goto(rm_level2);  // Replace 'rm_level2' with the exact room name for level 2.
             } else {
+				room_restart();
                 show_debug_message("Score not high enough to advance");
                 // Optionally, you can restart the quiz or go to a different room.
                 // For example, to restart the current quiz:
