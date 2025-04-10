@@ -19,6 +19,7 @@ if (quiz_state == "feedback") {
             for (var i = 0; i < array_length(answer_buttons); i++){
                 instance_destroy(answer_buttons[i]);
             }
+            answer_buttons = [];  
         }
     }
 }
