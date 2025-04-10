@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Dolphin_esque_Godmode",
+  "%Name":"Pop",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":96.58537,
-  "name":"Dolphin_esque_Godmode",
+  "duration":2.762653,
+  "name":"Pop",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Dolphin_esque_Godmode.mp3",
+  "soundFile":"Pop.mp3",
   "type":0,
   "volume":1.0,
 }

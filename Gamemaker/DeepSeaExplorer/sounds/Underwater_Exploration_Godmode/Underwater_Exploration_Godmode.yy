@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":117.02857,
+  "duration":117.0,
   "name":"Underwater_Exploration_Godmode",
   "parent":{
     "name":"Sounds",
