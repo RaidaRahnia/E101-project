@@ -65,7 +65,7 @@
     {"id":{"name":"obj_npc_parent","path":"objects/obj_npc_parent/obj_npc_parent.yy",},},
     {"id":{"name":"obj_octopus","path":"objects/obj_octopus/obj_octopus.yy",},},
     {"id":{"name":"obj_plastic_rings","path":"objects/obj_plastic_rings/obj_plastic_rings.yy",},},
-    {"id":{"name":"obj_question","path":"objects/obj_question/obj_question.yy",},},
+    {"id":{"name":"obj_quiz_button","path":"objects/obj_quiz_button/obj_quiz_button.yy",},},
     {"id":{"name":"obj_quiz_manager","path":"objects/obj_quiz_manager/obj_quiz_manager.yy",},},
     {"id":{"name":"obj_score_display","path":"objects/obj_score_display/obj_score_display.yy",},},
     {"id":{"name":"obj_seaweed","path":"objects/obj_seaweed/obj_seaweed.yy",},},

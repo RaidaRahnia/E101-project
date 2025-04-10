@@ -20,6 +20,7 @@
     {"name":"inst_35C0ADC0","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_6245EADB","path":"rooms/rm_level1/rm_level1.yy",},
     {"name":"inst_58249DA6","path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"inst_4605D07C","path":"rooms/rm_level1/rm_level1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -38,6 +39,7 @@
         {"$GMRInstance":"v2","%Name":"inst_35C0ADC0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35C0ADC0","objectId":{"name":"obj_fish1","path":"objects/obj_fish1/obj_fish1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.051999997,"scaleY":0.036000002,"x":608.0,"y":288.0,},
         {"$GMRInstance":"v2","%Name":"inst_6245EADB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6245EADB","objectId":{"name":"obj_treasure_box","path":"objects/obj_treasure_box/obj_treasure_box.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.10299998,"scaleY":0.10299998,"x":128.0,"y":608.0,},
         {"$GMRInstance":"v2","%Name":"inst_58249DA6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_58249DA6","objectId":{"name":"obj_quiz_manager","path":"objects/obj_quiz_manager/obj_quiz_manager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":480.0,},
+        {"$GMRInstance":"v2","%Name":"inst_4605D07C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4605D07C","objectId":{"name":"obj_score_display","path":"objects/obj_score_display/obj_score_display.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":480.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_4531A253","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_4531A253","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.115499966,"scaleY":0.115499966,"spriteId":{"name":"coral2","path":"sprites/coral2/coral2.yy",},"x":896.0,"y":480.0,},
