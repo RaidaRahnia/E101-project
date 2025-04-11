@@ -8,7 +8,18 @@ function create_dialogue(_messages){
 
 char_colors = {
     "Congrats": c_yellow,
-    "Fun Fact!": c_yellow
+    "Fun Fact!": c_yellow,
+    "Seaweed" : c_green,
+    "Shark": c_yellow,
+    "Turtle" : c_yellow,
+    "Sad Fact :(":c_yellow,
+    "Whale Shark" : c_yellow,
+    "Shrimp" : c_yellow,
+    "Plastic Rings": c_yellow,
+    "Fish": c_yellow,
+    
+    
+    
 }
 
 jellyfish_dialog = [
@@ -27,12 +38,12 @@ jellyfish_dialog = [
 
 seaweed_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Seaweed",
     msg: "These plants are incredibly important to human health and the ecosystem as they are responsible for a majority of the oxygen we breathe." 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Seaweed",
     msg: "They also form the base for the food chain in a lot of marine ecosystems."
 },
 
@@ -40,12 +51,12 @@ seaweed_dialog = [
 
 shark_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Shark",
     msg: "Although a lot of humans are afraid of sharks, they are actually a vital part of the ecosystem." 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Shark",
     msg: "They regulate prey populations and ensure they don't overpopulate and throw off an ecosystem's balance."
 },
 
@@ -53,12 +64,12 @@ shark_dialog = [
 
 turtle_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Turtle",
     msg: "Turtles are reptiles, meaning they have scaly skins covering their body and mostly lay eggs." 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Sad Fact :(",
     msg: "Only 1 out of 1000 can reach adulthood because as juveniles they are very vulnerable to predators."
 },
 
@@ -66,7 +77,7 @@ turtle_dialog = [
 
 whale_shark_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Whale Shark",
     msg: "They are the largest fish in the world and are generally considered to be harmless for humans!  " 
 },
 
@@ -74,7 +85,7 @@ whale_shark_dialog = [
 
 shrimp_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Shrimp",
     msg: "Shrimps are omnivores, meaning they eat both plants and animals. " 
 },
 
@@ -87,12 +98,12 @@ shrimp_dialog = [
 
 plastic_rings_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Plastic Rings",
     msg: "These are notorious for killing our ocean friends when they get stuck in them and can't breathe! " 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Plastic Rings",
     msg: "Make sure to cut up all the tight parts before recycling."
 },
 
@@ -113,17 +124,17 @@ dolphin_dialog = [
 
 fish5_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Fish",
     msg: "Have you ever wondered how fish sleep underwater? " 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Fish",
     msg: "Unlike mammals, fish don’t experience sleep." 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Fish",
     msg: "Instead they enter a resting stage to reduce their activity and conserve energy." 
 },
 
