@@ -30,6 +30,7 @@
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"level1_questions.json","CopyToMask":3035426170322551022,"filePath":"datafiles","name":"level1_questions.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"PeaberryMono.ttf","CopyToMask":-1,"filePath":"datafiles","name":"PeaberryMono.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"quiz_data.json","CopyToMask":-1,"filePath":"datafiles","name":"quiz_data.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"test..txt","CopyToMask":-1,"filePath":"datafiles","name":"test..txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,

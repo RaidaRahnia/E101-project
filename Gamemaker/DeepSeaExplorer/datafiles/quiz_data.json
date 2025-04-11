@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "How do dolphins communicate?",
+      "answers": [
+        "Through singing",
+        "Through echolocation",
+        "Through body language",
+        "Through telepathy"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "question": "Why is algae and seaweed important?",
+      "answers": [
+        "They are a food source for whales",
+        "They produce a majority of the oxygen we breathe",
+        "They provide shelter for small fish",
+        "They make the water clearer"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "question": "Why are sharks and predators important to an ecosystem?",
+      "answers": [
+        "They provide food for smaller fish",
+        "They regulate prey populations",
+        "They make the ocean more dangerous",
+        "They help plants grow"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "question": "What kind of animals are turtles?",
+      "answers": [
+        "Mammals",
+        "Amphibians",
+        "Reptiles",
+        "Fish"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "question": "What is the percentage of juvenile turtles that reach adulthood?",
+      "answers": [
+        "1%",
+        "10%",
+        "0.1%",
+        "50%"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "question": "What's the name of the largest fish?",
+      "answers": [
+        "Great White Shark",
+        "Blue Whale",
+        "Whale Shark",
+        "Megalodon"
+      ],
+      "correct_answer_index": 2
+    }
+  ]
+}
