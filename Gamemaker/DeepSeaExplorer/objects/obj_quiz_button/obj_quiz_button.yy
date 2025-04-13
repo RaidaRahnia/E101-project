@@ -33,8 +33,8 @@
   "solid":false,
   "spriteId":null,
   "spriteMaskId":{
-    "name":"spr_button",
-    "path":"sprites/spr_button/spr_button.yy",
+    "name":"spr_quiz_button",
+    "path":"sprites/spr_quiz_button/spr_quiz_button.yy",
   },
   "visible":true,
 }
