@@ -31,5 +31,5 @@ draw_rectangle(rect_x, rect_y, rect_x + box_width, rect_y + box_height, false);
 
 // Draw the button text inside the rectangle.
 draw_set_color(c_black);
-draw_set_font(font_answers);
-draw_text(round(rect_x + 10), round(rect_y + 15), button_text);
+draw_set_font(Font6_1);
+draw_text(floor(rect_x + 10), floor(rect_y + 15), button_text);

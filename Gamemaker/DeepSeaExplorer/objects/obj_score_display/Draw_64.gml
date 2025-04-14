@@ -23,15 +23,16 @@ if (mgr != noone) {
         var title = "Deep Sea Explorer Quiz";
         var title_center_x = (display_get_gui_width() - string_width(title)) / 2;
         // Adjust Y coordinate as needed (here at 30)
-        draw_set_font(font_question);  // Assuming font_question has been defined already.
-        draw_text(title_center_x, 30, title);
+        draw_set_font(Font6_1);  // Assuming font_question has been defined already.
+        
 
         // Get the current question text
         if (mgr.current_question < array_length(mgr.quiz_data)) {      
             var question_text = mgr.quiz_data[mgr.current_question][0];
             // You can center the question similarly or offset it.
             var question_center_x = (display_get_gui_width() - string_width(question_text)) / 2;
-            draw_text(question_center_x, 70, question_text);
+            //draw_text(question_center_x, 30, title);
+			draw_text(question_center_x, 50, question_text);
         } else {
             // Quiz finished
         }
@@ -41,7 +42,8 @@ if (mgr != noone) {
 				var score_text = "Final Score: " + string(score) + " / " + string(array_length(mgr.quiz_data));
             // Optionally center this text too:
             var score_center = (display_get_gui_width() - string_width(score_text)) / 2;
-            draw_text(score_center, 70, score_text);
+            draw_text(score_center, 30, "Quiz finished!");
+			draw_text(score_center, 70, score_text);
 		    }
         }
     }
