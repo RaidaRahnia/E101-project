@@ -31,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_quiz_button",
+    "path":"sprites/spr_quiz_button/spr_quiz_button.yy",
+  },
   "spriteMaskId":{
     "name":"spr_quiz_button",
     "path":"sprites/spr_quiz_button/spr_quiz_button.yy",

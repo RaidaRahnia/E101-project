@@ -1,0 +1,1 @@
+room_goto(rm_level2);  // Make sure rm_level2 is your next level room name.

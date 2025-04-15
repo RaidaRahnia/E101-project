@@ -1,0 +1,1 @@
+button_text = "Retry Quiz";

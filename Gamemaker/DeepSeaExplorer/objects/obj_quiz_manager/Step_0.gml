@@ -24,7 +24,7 @@ if (quiz_state == "feedback") {
     }
 }
 
-// Transition to level 2 after a delay if the quiz is finished.
+/* Transition to level 2 after a delay if the quiz is finished.
 if (quiz_state == "finished") {
     // Start the timer if it hasn’t already been started.
     if (level_transition_timer < 0) {
@@ -46,5 +46,27 @@ if (quiz_state == "finished") {
                 // room_goto(rm_retry);
             }
         }
+    }
+} */
+
+// Check if quiz is finished and the score meets the threshold.
+if (quiz_state == "finished") {
+    
+    // Only create the buttons once, so check if they're already created.
+    if (!instance_exists(obj_nextlevel_button) && score >= requiredScore) {
+        // Create buttons near the center of the screen.
+        var nextlevel_btn = instance_create_layer(room_width * 0.5, 
+                                                  room_height * 0.5, 
+                                                  "UI", 
+                                                  obj_nextlevel_button);
+        // Optionally store the instance id in a variable if you need to reference it.
+    }
+    
+    // Optionally, if the score doesn't meet threshold, create a retry button.
+    if (!instance_exists(obj_retry_button) && score < requiredScore) {
+        var retry_btn = instance_create_layer(room_width * 0.5, 
+                                              room_height * 0.5, 
+                                              "UI", 
+                                              obj_retry_button);
     }
 }
