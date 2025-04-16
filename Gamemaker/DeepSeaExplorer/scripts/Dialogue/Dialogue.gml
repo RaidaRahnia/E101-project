@@ -26,12 +26,12 @@ char_colors = {
 
 jellyfish_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Jellyfish",
     msg: "Jellyfish are about 95% to 98% water and don't actually have a brain, heart, or lungs." 
 },
 
 {
-    name: "Jellyfish",
+    name: "Fun Fact!",
     msg: "Lots of jellyfish have a very short lifespan but one, Turritopsis dohrnii, is an immortal jellyfish that can restart it's life cycle when under stress or grows old."
 },
 
@@ -93,7 +93,7 @@ shrimp_dialog = [
 
 {
     name: "Fun Fact!",
-    msg: "There are thousands of species of it; some of them are incredibly strong and can even break aquarium glass with their powerful strikes!"
+    msg: "There are thousands of species of shrimp; some of them are incredibly strong and can even break aquarium glass with their powerful strikes!"
 },
 
 ]
@@ -113,12 +113,12 @@ plastic_rings_dialog = [
 
 dolphin_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Dolphin",
     msg: "Dolphins communicate with each other through echolocation! " 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Dolphin",
     msg: "They can navigate by emitting sounds and sensing the sound waves that bounce off objects around them. "
 },
 
@@ -126,17 +126,17 @@ dolphin_dialog = [
 
 fish5_dialog = [
 {
-    name: "Fish",
+    name: "Fishy Fact",
     msg: "Have you ever wondered how fish sleep underwater? " 
 },
 
 {
-    name: "Fish",
+    name: "Fishy Fact",
     msg: "Unlike mammals, fish don’t experience sleep." 
 },
 
 {
-    name: "Fish",
+    name: "Fishy Fact",
     msg: "Instead they enter a resting stage to reduce their activity and conserve energy." 
 },
 
@@ -199,12 +199,12 @@ fish6_dialog = [
 
 octopus_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Octopus",
     msg: "Did you know octopi are incredibly intelligent?" 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Octopus",
     msg: "They are able to problem solve, learn, memorize, and communicate in their own ways." 
 },
 
@@ -222,31 +222,31 @@ starfish_dialog = [
 whale_dialog = [
 
 {
-    name: "Whale",
+    name: "Blue Whale",
     msg: "Whales are some of the biggest mammals on earth. " 
 },
 
 {
-    name: "Whale",
+    name: "Blue Whale",
     msg: "The blue whale specifically is actually the largest animal to be living on Earth right now." 
 },
 
 {
     name: "Fun Fact!",
-    msg: "Did you know that whales actually have hair? " 
+    msg: "Believe it or not, whales actually have hair!" 
 },
 
 ]
 
 anglerfish_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Angler Fish",
     msg: "Angler fish are also scavengers, an important class of organisms in ecosystems that eat dead or discarded organic matter (like vultures)." 
 },
 
 {
     name: "Fun Fact!",
-    msg: "They help break down dead plants and animals and keep the biome healthy! " 
+    msg: "Angler Fish help break down dead plants and animals and keep the biome healthy! " 
 },
 
 
@@ -254,12 +254,12 @@ anglerfish_dialog = [
 
 vampire_squid_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Vampire Squid",
     msg: "In the midnight zone of the ocean (the depth at which no light reaches), various animals utilize bioluminescence to see and attract prey." 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Vampire Squid",
     msg: "Bioluminescence is the emission of light by an organism through a chemical reaction." 
 },
 
@@ -273,12 +273,12 @@ vampire_squid_dialog = [
 
 can_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Sad Fact :(",
     msg: "Unfortunately, a lot of trash gets put into the ocean such as the Great Pacific Garbage Patch." 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Sad Fact :(",
     msg: "This is incredibly harmful to the ocean and kills a lot of organisms." 
 },
 

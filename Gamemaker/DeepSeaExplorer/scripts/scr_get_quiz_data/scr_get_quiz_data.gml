@@ -39,8 +39,8 @@ function scr_get_quiz_data(quiz_id) {
                 3
             ],
             // f) Shrimp
-            ["What kind of animal is shrimp?",
-                ["Omnivore", "Carnivore", "Herbivore", "None of the above"],
+            ["Shrimp has the diet of a...",
+                ["Omnivore", "Carnivore", "Herbivore", "Autotroph"],
                 0
             ]
         ];
@@ -49,13 +49,13 @@ function scr_get_quiz_data(quiz_id) {
         // — Level 2 — Twilight Zone
         return [
             // b) Jellyfish organs
-            ["What organs are jellyfish missing?",
+            ["Which organs are jellyfish missing?",
                 ["Brain", "Heart", "Lungs", "All of the above"],
                 3
             ],
             // b) Turritopsis dohrnii
             ["What is special about Turritopsis dohrnii?",
-                ["It is an immortal jellyfish",
+                ["It is immortal",
                  "It can fly",
                  "It is bioluminescent",
                  "It lives in freshwater"],
