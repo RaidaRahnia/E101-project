@@ -17,6 +17,8 @@ char_colors = {
     "Shrimp" : c_yellow,
     "Plastic Rings": c_yellow,
     "Fish": c_yellow,
+    "Whale": c_yellow,
+    "Jellyfish": c_yellow,
     
     
     
@@ -29,7 +31,7 @@ jellyfish_dialog = [
 },
 
 {
-    name: "Fun Fact!",
+    name: "Jellyfish",
     msg: "Lots of jellyfish have a very short lifespan but one, Turritopsis dohrnii, is an immortal jellyfish that can restart it's life cycle when under stress or grows old."
 },
 
@@ -104,7 +106,7 @@ plastic_rings_dialog = [
 
 {
     name: "Plastic Rings",
-    msg: "Make sure to cut up all the tight parts before recycling."
+    msg: "It is beneficial to recycle them through in-store recycling, but if not, make sure to cut up all the tight parts before throwing them in the trash."
 },
 
 ]
@@ -211,7 +213,7 @@ octopus_dialog = [
 
 starfish_dialog = [
 {
-    name: "Fun Fact!",
+    name: "Sad Fact :(",
     msg: "Starfish population has been decreasing significantly due to ocean warming and diseases like sea star wasting syndrome, which causes their limbs to decay." 
 },
 
@@ -220,18 +222,18 @@ starfish_dialog = [
 whale_dialog = [
 
 {
-    name: "Fun Fact!",
-    msg: "Did you know that whales actually have hair? " 
-},
-
-{
-    name: "Fun Fact!",
+    name: "Whale",
     msg: "Whales are some of the biggest mammals on earth. " 
 },
 
 {
-    name: "Fun Fact!",
+    name: "Whale",
     msg: "The blue whale specifically is actually the largest animal to be living on Earth right now." 
+},
+
+{
+    name: "Fun Fact!",
+    msg: "Did you know that whales actually have hair? " 
 },
 
 ]
