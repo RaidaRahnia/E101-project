@@ -3,7 +3,6 @@
 // Ensure we have a valid reference to the manager, then pass our button index.
 if (manager != noone) {
     manager.quiz_answer_selected(btn_index);
-	show_debug_message("Button pressed");
 }
 
 // obj_quiz_button: Mouse Left Pressed Event
@@ -19,6 +18,5 @@ var my = mouse_y;
 if (mx >= rect_x && mx <= rect_x + box_width && my >= rect_y && my <= rect_y + box_height) {
     if (manager != noone) {
         manager.quiz_answer_selected(btn_index);
-        show_debug_message("Button pressed");
     }
 }

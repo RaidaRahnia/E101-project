@@ -24,31 +24,6 @@ if (quiz_state == "feedback") {
     }
 }
 
-/* Transition to level 2 after a delay if the quiz is finished.
-if (quiz_state == "finished") {
-    // Start the timer if it hasn’t already been started.
-    if (level_transition_timer < 0) {
-        level_transition_timer = room_speed * 3; // 3 seconds delay
-    } else {
-        level_transition_timer--;
-        if (level_transition_timer <= 0) {
-            // Check if the score is high enough.
-            if (score >= requiredScore) {
-                show_debug_message("Score high enough! Proceeding to level 2");
-                room_goto(rm_level2);  // Replace 'rm_level2' with the exact room name for level 2.
-            } else {
-				room_restart();
-                show_debug_message("Score not high enough to advance");
-                // Optionally, you can restart the quiz or go to a different room.
-                // For example, to restart the current quiz:
-                // room_restart();
-                // Or send them to a 'retry' room:
-                // room_goto(rm_retry);
-            }
-        }
-    }
-} */
-
 // Check if quiz is finished and the score meets the threshold.
 if (quiz_state == "finished") {
     
