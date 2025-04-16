@@ -1,29 +1,9 @@
 // obj_quiz_manager: Create Event
-
 // Quiz remains inactive until start_quiz() is called.
 quiz_active = false;
 
 // Define your quiz data (formatted as our array format):
-quiz_data = [
-    ["How do dolphins communicate?", 
-         ["Through singing", "Through echolocation", "Through body language", "Through telepathy"],
-         1],
-    ["Why is algae and seaweed important?",
-         ["They are a food source for whales", "They provide shelter for small fish", "They produce a majority of the oxygen we breathe", "They make the water clearer"],
-         2],
-    ["Why are sharks and predators important to an ecosystem?",
-         ["They regulate prey populations", "They provide food for smaller fish", "They make the ocean more dangerous", "They help plants grow"],
-         0],
-    ["What kind of animals are turtles?",
-         ["Mammals", "Amphibians", "Reptiles", "Fish"],
-         2],
-    ["What is the percentage of juvenile turtles that reach adulthood?",
-         ["1%", "10%", "0.1%", "50%"],
-         2],
-    ["What's the name of the largest fish?",
-         ["Great White Shark", "Blue Whale","Megalodon","Whale Shark"],
-         3]
-];
+quiz_data = scr_get_quiz_data(global.current_level);
 
 current_question = 0;
 score = 0;
