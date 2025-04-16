@@ -34,7 +34,7 @@ function scr_get_quiz_data(quiz_id) {
                 2
             ],
             // e) Whale Shark
-            ["What’s the name of the largest fish?",
+            ["What is the name of the largest fish?",
                 ["Great White Shark", "Blue Whale", "Megalodon", "Whale Shark"],
                 3
             ],
