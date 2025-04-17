@@ -9,8 +9,8 @@
   "name":"obj_quiz_manager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"group1",
+    "path":"folders/Objects/Managers/group1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

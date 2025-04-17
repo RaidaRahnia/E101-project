@@ -6,8 +6,8 @@
   "name":"obj_crab",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Level2",
+    "path":"folders/Objects/Level2.yy",
   },
   "parentObjectId":{
     "name":"obj_npc_parent",

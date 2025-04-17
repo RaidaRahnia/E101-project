@@ -8,8 +8,8 @@
   "name":"Obj_Music_rm_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Sound",
+    "path":"folders/Objects/Managers/Sound.yy",
   },
   "parentObjectId":null,
   "persistent":false,

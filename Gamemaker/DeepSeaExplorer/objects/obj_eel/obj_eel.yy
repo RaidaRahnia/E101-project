@@ -6,8 +6,8 @@
   "name":"obj_eel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Leve4",
+    "path":"folders/Objects/Leve4.yy",
   },
   "parentObjectId":{
     "name":"obj_npc_parent",
