@@ -71,6 +71,8 @@
     {"id":{"name":"obj_get_room","path":"objects/obj_get_room/obj_get_room.yy",},},
     {"id":{"name":"obj_interaction_icon","path":"objects/obj_interaction_icon/obj_interaction_icon.yy",},},
     {"id":{"name":"obj_jellyfish","path":"objects/obj_jellyfish/obj_jellyfish.yy",},},
+    {"id":{"name":"Obj_Music_rm_2","path":"objects/Obj_Music_rm_2/Obj_Music_rm_2.yy",},},
+    {"id":{"name":"obj_Music_rm_3","path":"objects/obj_Music_rm_3/obj_Music_rm_3.yy",},},
     {"id":{"name":"obj_nextlevel_button","path":"objects/obj_nextlevel_button/obj_nextlevel_button.yy",},},
     {"id":{"name":"obj_npc_parent","path":"objects/obj_npc_parent/obj_npc_parent.yy",},},
     {"id":{"name":"obj_octopus","path":"objects/obj_octopus/obj_octopus.yy",},},

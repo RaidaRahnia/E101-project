@@ -30,6 +30,8 @@ if (quiz_state == "finished") {
     // Only create the buttons once, so check if they're already created.
     if (!instance_exists(obj_nextlevel_button) && score >= requiredScore) {
 		audio_stop_sound(Underwater_Exploration_Godmode)
+		audio_stop_sound(Dolphin_esque_Godmode)
+		audio_stop_sound(On_the_Island_Godmode)
 		audio_play_sound(Magic_Chime,0,false,1,1)
         // Create buttons near the center of the screen.
 			
