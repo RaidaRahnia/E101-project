@@ -45,8 +45,110 @@ function scr_get_quiz_data(quiz_id) {
             ]
         ];
     }
-    else if (quiz_id == 2) {
-        // — Level 2 — Twilight Zone
+	else if (quiz_id == 2) {
+        // — Level 2 — Kelp Forest
+        return [
+            // a) Sea Otter
+            ["What are keystone species and why are they important?",
+                 ["A species that migrates seasonally",
+	             "A species upon which an entire ecosystem heavily depends",
+	             "A species that lives only in kelp",
+	             "A top-level predator only"],
+				1
+            ],
+            // b) Sea Lions
+            ["Why do sea lions molt?",
+                ["To shed old fur and grow a healthier coat",
+	             "To attract mates",
+	             "To migrate long distances",
+	             "To change their body color"],
+	            0
+            ],
+            // c) Starfish (Sea Star)
+            ["Which sea star manages the sea urchin population in kelp forests?",
+                ["Sunflower sea star",
+	             "Ochre sea star",
+	             "Leather sea star",
+	             "Blood sea star"],
+	            0
+            ],
+            // d) Sea Urchin
+            ["Why are scientists trying to control the sea urchin population in kelp forests?",
+                ["Because they overgraze kelp and destroy habitat",
+	             "Because they produce toxic chemicals",
+	             "Because they increase fish populations too much",
+	             "Because they block sunlight from reaching kelp"],
+	            0
+            ],
+            // f) Crab
+            ["What are decapods?",
+                ["Insects with ten segments",
+	             "Crustaceans with ten legs",
+	             "Fish with ten fins",
+	             "Mammals with ten toes"],
+	            1
+            ],
+            // g) Stingray TODO
+            ["How do kelp forest stingrays camouflage themselves?",
+	            ["By burrowing into sand with flat bodies",
+	             "By emitting bioluminescent light",
+	             "By flashing bright warning colors",
+	             "By changing their scale patterns"],
+	            0
+            ],
+			// h) Seahorse TODO
+            ["What adaptation allows seahorses to cling to kelp blades?",
+	            ["Suction-cup fins",
+	             "Prehensile tails",
+	             "Sticky skin",
+	             "Spiny armor"],
+	            1
+            ]
+        ];
+    }
+    else if (quiz_id == 3) {
+        // — Level 3 — Twilight Zone
+        return [
+            // b) Jellyfish organs
+            ["Which organs are jellyfish missing?",
+                ["Brain", "Heart", "Lungs", "All of the above"],
+                3
+            ],
+            // b) Turritopsis dohrnii
+            ["What is special about Turritopsis dohrnii?",
+                ["It is immortal",
+                 "It can fly",
+                 "It is bioluminescent",
+                 "It lives in freshwater"],
+                0
+            ],
+            // c) Starfish decline
+            ["What is responsible for declining the population of starfish?",
+                ["Overfishing",
+                 "Ocean warming and diseases",
+                 "Pollution",
+                 "Habitat loss"],
+                1
+            ],
+            // d) Blue whale
+            ["What is the biggest mammal on Earth?",
+                ["Humpback Whale", "African Elephant", "Sperm Whale", "Blue Whale"],
+                3
+            ],
+            // f) Fish memory
+            ["According to studies, how long can fish retain memories?",
+                ["A few seconds", "A few minutes", "Months or years", "They have no memory"],
+                2
+            ],
+            // g) Electroreceptors
+            ["What helps fish detect their prey using electrical signals?",
+                ["Electroreceptors", "Lateral line system", "Vibrations", "Color changes"],
+                0
+            ]
+        ];
+    }
+	else if (quiz_id == 4) {
+        // — Level 4 — Midnight Zone
         return [
             // b) Jellyfish organs
             ["Which organs are jellyfish missing?",

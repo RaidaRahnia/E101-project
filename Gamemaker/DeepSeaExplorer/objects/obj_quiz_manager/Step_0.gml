@@ -32,7 +32,12 @@ if (quiz_state == "finished") {
 		audio_stop_sound(Underwater_Exploration_Godmode)
 		audio_play_sound(Magic_Chime,0,false,1,1)
         // Create buttons near the center of the screen.
-        var nextlevel_btn = instance_create_layer(room_width * 0.5, 
+			
+		if (global.current_level == 4) {
+			room_goto_next();
+		}
+		
+		var nextlevel_btn = instance_create_layer(room_width * 0.5, 
                                                   room_height * 0.5, 
                                                   "UI", 
                                                   obj_nextlevel_button);
