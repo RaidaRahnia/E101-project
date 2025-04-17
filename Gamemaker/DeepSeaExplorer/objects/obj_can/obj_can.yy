@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"can",
-    "path":"sprites/can/can.yy",
+    "name":"mn_can",
+    "path":"sprites/mn_can/mn_can.yy",
   },
   "spriteMaskId":null,
   "visible":true,

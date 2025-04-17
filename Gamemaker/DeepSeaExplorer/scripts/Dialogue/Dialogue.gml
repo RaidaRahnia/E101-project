@@ -19,7 +19,12 @@ char_colors = {
     "Fish": c_yellow,
     "Whale": c_yellow,
     "Jellyfish": c_yellow,
-    
+    "Dolphin": c_yellow,
+    "Fishy Fact": c_yellow,
+    "Octopus": c_yellow,
+    "Blue Whale": c_yellow,
+    "Vampire Squid": c_yellow,
+    "Angler Fish": c_yellow,
     
     
 }

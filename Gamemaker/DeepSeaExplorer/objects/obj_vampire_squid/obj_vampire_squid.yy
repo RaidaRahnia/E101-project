@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"vampiresquid",
-    "path":"sprites/vampiresquid/vampiresquid.yy",
+    "name":"mn_vampiresquid",
+    "path":"sprites/mn_vampiresquid/mn_vampiresquid.yy",
   },
   "spriteMaskId":null,
   "visible":true,

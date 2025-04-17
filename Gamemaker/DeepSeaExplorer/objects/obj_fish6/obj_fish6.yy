@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"fish6",
-    "path":"sprites/fish6/fish6.yy",
+    "name":"mn_fish6",
+    "path":"sprites/mn_fish6/mn_fish6.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"fish4",
-    "path":"sprites/fish4/fish4.yy",
+    "name":"mn_fish4",
+    "path":"sprites/mn_fish4/mn_fish4.yy",
   },
   "spriteMaskId":null,
   "visible":true,

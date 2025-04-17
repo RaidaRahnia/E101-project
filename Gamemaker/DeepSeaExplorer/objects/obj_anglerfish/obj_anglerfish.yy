@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"anglerfish",
-    "path":"sprites/anglerfish/anglerfish.yy",
+    "name":"mn_angler",
+    "path":"sprites/mn_angler/mn_angler.yy",
   },
   "spriteMaskId":null,
   "visible":true,
