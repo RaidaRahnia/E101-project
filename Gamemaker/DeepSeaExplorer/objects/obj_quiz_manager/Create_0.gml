@@ -30,7 +30,6 @@ quiz_answer_selected = function(chosen_index) {
         // Check answer correctness:
         if (chosen_index == quiz_data[current_question][2]) {
             score++;
-            show_debug_message("Correct answer!");
         } else {
             show_debug_message("Incorrect answer!");
         }
