@@ -33,7 +33,7 @@ if (quiz_state == "finished") {
 		audio_play_sound(Magic_Chime,0,false,1,1)
         // Create buttons near the center of the screen.
 			
-		if (global.current_level == 4) {
+		if (global.current_level == 5) {
 			room_goto_next();
 		}
 		

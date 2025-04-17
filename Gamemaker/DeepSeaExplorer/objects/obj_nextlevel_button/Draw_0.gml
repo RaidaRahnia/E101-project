@@ -11,10 +11,6 @@ draw_rectangle(x - half_w, y - half_h, x + half_w, y + half_h, false);
 draw_set_color(c_white);
 //draw_set_font(Font6_1);  // or whichever valid font you want to use
 
-if global.current_level == 5 {
-	button_text = "Game Complete!";	
-}
-
 // Measure the text
 var text_w = string_width(button_text);
 var text_h = string_height(button_text);

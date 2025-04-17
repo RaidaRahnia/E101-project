@@ -52,8 +52,6 @@
     {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
     {"id":{"name":"Font6_1","path":"fonts/Font6_1/Font6_1.yy",},},
     {"id":{"name":"Font6","path":"fonts/Font6/Font6.yy",},},
-    {"id":{"name":"kelp_obj1","path":"objects/kelp_obj1/kelp_obj1.yy",},},
-    {"id":{"name":"kelp_obj2","path":"objects/kelp_obj2/kelp_obj2.yy",},},
     {"id":{"name":"obj_anglerfish","path":"objects/obj_anglerfish/obj_anglerfish.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_button_play","path":"objects/obj_button_play/obj_button_play.yy",},},

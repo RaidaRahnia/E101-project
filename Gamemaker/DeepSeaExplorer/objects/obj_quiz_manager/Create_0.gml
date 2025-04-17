@@ -26,7 +26,7 @@ quiz_answer_selected = function(chosen_index) {
     if (quiz_state == "waiting") {
         selected_answer = chosen_index;
         quiz_state = "feedback";
-        feedback_timer = 15;  // one-second feedback delay
+        feedback_timer = 60;  // one-second feedback delay
         // Check answer correctness:
         if (chosen_index == quiz_data[current_question][2]) {
             score++;
