@@ -3,6 +3,9 @@
 // Existing code for handling feedback and question transition:
 if (quiz_state == "feedback") {
     feedback_timer--;
+    
+    
+
     if (feedback_timer <= 0) {
         current_question++;
         selected_answer = -1;
@@ -26,6 +29,8 @@ if (quiz_state == "feedback") {
 
 // Check if quiz is finished and the score meets the threshold.
 if (quiz_state == "finished") {
+    
+    instance_create_layer(20, 20, "Instances", obj_back_button);
     
     // Only create the buttons once, so check if they're already created.
     if (!instance_exists(obj_nextlevel_button) && score >= requiredScore) {
@@ -53,4 +58,7 @@ if (quiz_state == "finished") {
                                               "UI", 
                                               obj_retry_button);
     }
+    
+    
+
 }

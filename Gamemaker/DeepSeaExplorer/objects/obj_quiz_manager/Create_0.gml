@@ -40,6 +40,9 @@ quiz_answer_selected = function(chosen_index) {
 function start_quiz() {
     quiz_active = true;
     
+    with (obj_back_button) {
+    instance_destroy();
+    } 
     // Create answer button instances.
     var start_x = 100;
     var start_y = 300;
