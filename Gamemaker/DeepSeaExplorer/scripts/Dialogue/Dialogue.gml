@@ -25,6 +25,18 @@ char_colors = {
     "Blue Whale": c_yellow,
     "Vampire Squid": c_yellow,
     "Angler Fish": c_yellow,
+    "Sea Otter": c_yellow,
+    "Sea Lion": c_yellow,
+    "Sea Urchin": c_yellow,
+    "Hope!": c_yellow,
+    "Crab": c_yellow,
+    "Stingray": c_yellow,
+    "Seahorse": c_yellow,
+    "Eel": c_yellow,
+    
+    
+    
+    
     
     
 }
@@ -285,6 +297,126 @@ can_dialog = [
 {
     name: "Sad Fact :(",
     msg: "This is incredibly harmful to the ocean and kills a lot of organisms." 
+},
+
+
+]
+
+
+
+sea_otter_dialog = [
+{
+    name: "Sea Otter",
+    msg: "Sea otters are keystone species for kelp forests–meaning they are a species that the ecosystem heavily depends on. "
+},
+
+{
+    name: "Sea Otter",
+    msg: "If keystone species were to disappear, that ecosystem would change drastically! "
+},
+
+{
+    name: "Sea Otter",
+    msg: "Sea otters control sea urchin populations so they don’t overgraze on kelp!"
+},
+
+]
+
+sea_lion_dialog = [
+{
+    name: "Sea Lion",
+    msg: "Did you know that sea lions molt similar to snakes or arachnids?"
+},
+
+{
+    name: "Sea Lion",
+    msg: "They molt once of year to shed their fur and outer layer of skin to grow a newer and healthier coat."
+},
+
+{
+    name: "Sea Lion",
+    msg: "The new fur and skin can protect them from injury, UV rays, and maintain their hydrodynamic properties."
+},
+
+
+]
+
+
+
+sea_urchin_dialog = [
+{
+    name: "Sea Urchin",
+    msg: "Sea urchins are rapidly consuming and mowing down kelp forests due to a decline in predator populations like sea stars and sea otters. "
+},
+
+{
+    name: "Hope!",
+    msg: "Scientists are working on controlling their population before kelp forests are completely devoured due to the ecosystem imbalance."
+},
+
+
+]
+
+
+
+crab_dialog = [
+{
+    name: "Crab",
+    msg: "Crabs are called decapods because they actually have ten legs, counting their claws/pincers. "
+},
+
+{
+    name: "Crab",
+    msg: "Most decapods are scavenger crustaceans."
+},
+
+{
+    name: "Crab",
+    msg: "Because these legs are primarily on the side of their bodies, they move extremely fast sideways rather than forward or backward."
+},
+
+
+]
+
+
+
+stingray_dialog = [
+{
+    name: "Stingray",
+    msg: " Kelp forest stingrays are expert masters of disguise—they flatten their diamond‑shaped bodies against the sandy seafloor and gently burrow into the sediment, leaving only their eyes and spiracles exposed."
+},
+
+{
+    name: "Stingray",
+    msg: "This clever “sand‑burrow” camouflage lets them vanish from both predators and unsuspecting prey!"
+},
+
+
+]
+
+seahorse_dialog = [
+{
+    name: "Seahorse",
+    msg: "Seahorses sport truly remarkable prehensile tails—think of them as a built‑in grappling hook!"
+},
+
+{
+    name: "Seahorse",
+    msg: "They wrap that tail tightly around kelp blades or coral branches to anchor themselves in place, letting them hang on securely in swirling currents while they patiently hunt tiny plankton."
+},
+
+
+]
+
+eel_dialog = [
+{
+    name: "Eel",
+    msg: "Electric eels can produce up to 600V of electricity!"
+},
+
+{
+    name: "Eel",
+    msg: "They mainly use their shocking abilities to defend themselves, subdue predators, or navigate waters."
 },
 
 
