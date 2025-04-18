@@ -73,7 +73,7 @@ function scr_get_quiz_data(quiz_id) {
 	            0
             ],
             // d) Sea Urchin
-            ["Why are scientists trying to control the sea urchin population in kelp forests?",
+            ["Why do we need to control sea urchins in kelp forests?",
                 ["Because they overgraze kelp and destroy habitat",
 	             "Because they produce toxic chemicals",
 	             "Because they increase fish populations too much",

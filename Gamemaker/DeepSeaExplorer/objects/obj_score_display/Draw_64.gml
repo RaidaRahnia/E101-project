@@ -23,7 +23,8 @@ if (mgr != noone) {
         var title = "Deep Sea Explorer Quiz";
         var title_center_x = (display_get_gui_width() - string_width(title)) / 2;
         // Adjust Y coordinate as needed (here at 30)
-        draw_set_font(Font6_1);  // Assuming font_question has been defined already.
+        var font_sample = font_add("MTF Chubb.ttf", 50, false, false, 32, 128);
+        draw_set_font(font_sample);  // Assuming font_question has been defined already.
         
 
         // Get the current question text
