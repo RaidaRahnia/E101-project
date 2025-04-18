@@ -34,11 +34,6 @@ char_colors = {
     "Seahorse": c_yellow,
     "Eel": c_yellow,
     
-    
-    
-    
-    
-    
 }
 
 jellyfish_dialog = [
