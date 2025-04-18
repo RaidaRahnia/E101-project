@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":20.845715,
+  "duration":20.8,
   "name":"Battle_Crowd_Celebrate_Stutter",
   "parent":{
     "name":"Sounds",

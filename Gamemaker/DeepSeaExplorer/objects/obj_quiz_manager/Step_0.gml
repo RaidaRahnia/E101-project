@@ -59,6 +59,9 @@ if (quiz_state == "finished") {
                                               room_height * 0.5, 
                                               "UI", 
                                               obj_retry_button);
+											  audio_stop_all();
+											  audio_play_sound(Battle_Crowd_Celebrate_Stutter,0,false,1,18);
+											  
     }
     
     
