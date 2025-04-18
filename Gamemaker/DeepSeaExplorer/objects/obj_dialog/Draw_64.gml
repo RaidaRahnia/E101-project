@@ -7,8 +7,8 @@ draw_sprite_stretched(spr_box, 0, _dx, _dy, _boxw, _boxh);
 
 _dy += 16;
 _dx += 16;
-var myFont = font_add("PeaberryMono.ttf", 30, false, false, 32, 128);
-draw_set_font(myFont);
+//var myFont = font_add("PeaberryMono.ttf", 30, false, false, 32, 128);
+draw_set_font(font_question);
 //draw_set_font(font_default);
 
 var _name = messages[current_message].name;
