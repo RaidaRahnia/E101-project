@@ -30,7 +30,11 @@ if (quiz_state == "feedback") {
 // Check if quiz is finished and the score meets the threshold.
 if (quiz_state == "finished") {
     
-    instance_create_layer(20, 20, "Instances", obj_back_button);
+    //instance_create_layer(10, 10, "Instances", obj_back_button);
+    var btn = instance_create_layer(10, 10, "Instances", obj_back_button);
+    btn.image_xscale = 0.03; // 50% width
+    btn.image_yscale = 0.03; // 50% height
+
     
     // Only create the buttons once, so check if they're already created.
     if (!instance_exists(obj_nextlevel_button) && score >= requiredScore) {
