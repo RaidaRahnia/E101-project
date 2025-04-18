@@ -151,39 +151,40 @@ function scr_get_quiz_data(quiz_id) {
         // — Level 4 — Midnight Zone
         return [
             // b) Jellyfish organs
-            ["Which organs are jellyfish missing?",
-                ["Brain", "Heart", "Lungs", "All of the above"],
-                3
-            ],
-            // b) Turritopsis dohrnii
-            ["What is special about Turritopsis dohrnii?",
-                ["It is immortal",
-                 "It can fly",
-                 "It is bioluminescent",
-                 "It lives in freshwater"],
-                0
-            ],
-            // c) Starfish decline
-            ["What is responsible for declining the population of starfish?",
-                ["Overfishing",
-                 "Ocean warming and diseases",
-                 "Pollution",
-                 "Habitat loss"],
-                1
-            ],
-            // d) Blue whale
-            ["What is the biggest mammal on Earth?",
-                ["Humpback Whale", "African Elephant", "Sperm Whale", "Blue Whale"],
-                3
-            ],
-            // f) Fish memory
-            ["According to studies, how long can fish retain memories?",
-                ["A few seconds", "A few minutes", "Months or years", "They have no memory"],
+            ["What class of organisms are anglerfish?",
+                ["Predators", "Producers", "Scavengers", "Parasites"],
                 2
             ],
+            // b) Turritopsis dohrnii
+            ["What is bioluminescence and how can it be used?",
+                ["Camouflage for ambushing prey",
+                 "Light made by a chemical reaction to attract or distract",
+                 "Sonar for detecting objects",
+                 "Changing body temperature to adapt "],
+                1
+            ],
+            // c) Starfish decline
+            ["Why is there a lack of dissolved oxygen in the water?",
+                ["Too much sunlight",
+                 "Excess salt in the water",
+                 "Fish breathing too fast",
+                 "Pollution and temperature changes"],
+                3
+            ],
+            // d) Blue whale
+            ["How do electric eels utilize their electricity?",
+                ["To light up dark waters", "To attract mates", "To defend, hunt, and navigate",
+                 "To power their gills"],
+                2
+            ],
+            // f) Fish memory
+            ["How do fish sleep ?",
+                ["They sleep with their eyes open", "They never rest at all", "They hibernate like bears", "They enter a low-activity resting stage"],
+                3
+            ],
             // g) Electroreceptors
-            ["What helps fish detect their prey using electrical signals?",
-                ["Electroreceptors", "Lateral line system", "Vibrations", "Color changes"],
+            ["What factors cause fish to change their color?",
+                ["Camouflage, environment, and seasons", "Water pressure and speed", "Mood and diet", "Light from the sun"],
                 0
             ]
         ];
