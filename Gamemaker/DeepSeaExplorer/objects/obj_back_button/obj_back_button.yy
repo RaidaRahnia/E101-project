@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_talk",
-    "path":"sprites/spr_talk/spr_talk.yy",
+    "name":"pause",
+    "path":"sprites/pause/pause.yy",
   },
   "spriteMaskId":null,
   "visible":true,

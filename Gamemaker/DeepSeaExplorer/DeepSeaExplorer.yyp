@@ -179,6 +179,7 @@
     {"id":{"name":"mn_vampiresquid","path":"sprites/mn_vampiresquid/mn_vampiresquid.yy",},},
     {"id":{"name":"obj_fish_swimming","path":"sprites/obj_fish_swimming/obj_fish_swimming.yy",},},
     {"id":{"name":"octopus","path":"sprites/octopus/octopus.yy",},},
+    {"id":{"name":"pause","path":"sprites/pause/pause.yy",},},
     {"id":{"name":"plastic1","path":"sprites/plastic1/plastic1.yy",},},
     {"id":{"name":"rock","path":"sprites/rock/rock.yy",},},
     {"id":{"name":"sea_lion","path":"sprites/sea_lion/sea_lion.yy",},},
