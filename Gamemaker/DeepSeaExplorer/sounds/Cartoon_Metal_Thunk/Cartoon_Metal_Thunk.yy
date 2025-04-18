@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":13.583673,
+  "duration":13.541338,
   "name":"Cartoon_Metal_Thunk",
   "parent":{
     "name":"Sounds",

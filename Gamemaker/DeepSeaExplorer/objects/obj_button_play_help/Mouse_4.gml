@@ -14,9 +14,7 @@ if (variable_global_exists("coming_from_pause") && global.coming_from_pause) {
     // Case: Came from main menu or first time play
     global.is_paused = false;
     room_goto(rm_level1); // Change this to your actual first level room
-    audio_play_sound(Wind_Chimes,0,false);
-    audio_play_sound(Underwater_Exploration_Godmode,0,true,1,10.35);
-    audio_stop_sound(Water_Lapping_Wind_342); // Start game if it's from Main Menu
+    // Start game if it's from Main Menu
 }
 
     
