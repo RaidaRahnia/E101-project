@@ -4,7 +4,9 @@
   "eventList":[],
   "managed":true,
   "name":"obj_sea_otter",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_npc_parent","path":"objects/obj_npc_parent/obj_npc_parent.yy",},"propertyId":{"name":"dialog","path":"objects/obj_npc_parent/obj_npc_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"global.sea_otter_dialog",},
+  ],
   "parent":{
     "name":"Level2",
     "path":"folders/Objects/Level2.yy",
