@@ -7,3 +7,4 @@ global.coming_from_pause = false;
 
 // Send player back to level 1 or your intro scene
 room_goto(rm_menu); // Change this to your actual first level room
+audio_stop_all()

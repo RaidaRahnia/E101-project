@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Kazoom_Quincas_Moreira",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":230.9434,
+  "name":"Kazoom_Quincas_Moreira",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Kazoom_Quincas_Moreira.mp3",
+  "type":0,
+  "volume":0.12,
+}

@@ -39,7 +39,7 @@ if (quiz_state == "finished") {
     // Only create the buttons once, so check if they're already created.
     if (!instance_exists(obj_nextlevel_button) && score >= requiredScore) {
 		audio_stop_all()
-		audio_play_sound(Magic_Chime,0,false,1,1)
+		audio_play_sound(Magic_Chime,0,false,2,1)
         // Create buttons near the center of the screen.
 			
 		if (global.current_level == 6) {

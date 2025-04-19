@@ -7,7 +7,7 @@
   },
   "bitDepth":1,
   "bitRate":128,
-  "compression":0,
+  "compression":3,
   "conversionMode":0,
   "duration":139.1507,
   "name":"Treasure_Hunt_Jeremy_Korpas",
