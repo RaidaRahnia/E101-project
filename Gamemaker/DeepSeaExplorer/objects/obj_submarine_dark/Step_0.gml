@@ -1,5 +1,6 @@
 if(instance_exists(obj_dialog)) exit;
     
+if(!instance_exists(obj_treasure_box)) exit;
 
 // Move up
 if keyboard_check(vk_up) {
