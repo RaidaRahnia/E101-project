@@ -25,3 +25,10 @@ var center_y = y1 + h / 2;
 var line_spacing = 60;
 
 draw_text(center_x, center_y - line_spacing / 2, info_text);
+
+
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
+draw_set_alpha(1);
+//draw_set_font(-1); // Resets to default font
+draw_set_color(c_white); // Resets color just in case
