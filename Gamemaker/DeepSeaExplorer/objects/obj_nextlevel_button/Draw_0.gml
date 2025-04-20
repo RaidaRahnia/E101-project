@@ -1,4 +1,4 @@
-draw_set_font(Font6_1);
+draw_set_font(font_question);
 
 // 1) Draw the teal rectangle centered on (x, y).
 var half_w = 100; // half of 200

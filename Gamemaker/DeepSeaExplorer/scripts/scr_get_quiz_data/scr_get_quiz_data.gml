@@ -58,19 +58,11 @@ function scr_get_quiz_data(quiz_id) {
             ],
             // b) Sea Lions
             ["Why do sea lions molt?",
-                ["To shed old fur and grow a healthier coat",
-	             "To attract mates",
+                ["To attract mates",
 	             "To migrate long distances",
+				 "To shed old fur and grow a healthier coat",
 	             "To change their body color"],
-	            0
-            ],
-            // c) Starfish (Sea Star)
-            ["Which sea star manages the sea urchin population in kelp forests?",
-                ["Sunflower sea star",
-	             "Ochre sea star",
-	             "Leather sea star",
-	             "Blood sea star"],
-	            0
+	            2
             ],
             // d) Sea Urchin
             ["Why do we need to control sea urchins in kelp forests?",
@@ -83,18 +75,18 @@ function scr_get_quiz_data(quiz_id) {
             // f) Crab
             ["What are decapods?",
                 ["Insects with ten segments",
-	             "Crustaceans with ten legs",
 	             "Fish with ten fins",
-	             "Mammals with ten toes"],
-	            1
+	             "Mammals with ten toes",
+				 "Crustaceans with ten legs"],
+	            3
             ],
             // g) Stingray
             ["How do kelp forest stingrays camouflage themselves?",
-	            ["By burrowing into sand with flat bodies",
-	             "By emitting bioluminescent light",
+	            ["By emitting bioluminescent light",
 	             "By flashing bright warning colors",
+				 "By burrowing into sand with flat bodies",
 	             "By changing their scale patterns"],
-	            0
+	            2
             ],
 			// h) Seahorse
             ["What adaptation allows seahorses to cling to kelp blades?",
@@ -150,12 +142,12 @@ function scr_get_quiz_data(quiz_id) {
 	else if (quiz_id == 4) {
         // — Level 4 — Midnight Zone
         return [
-            // b) Jellyfish organs
+            // b) Anglerfish
             ["What class of organisms are anglerfish?",
                 ["Predators", "Producers", "Scavengers", "Parasites"],
                 2
             ],
-            // b) Turritopsis dohrnii
+            // b) Bioluminescence
             ["What is bioluminescence and how can it be used?",
                 ["Camouflage for ambushing prey",
                  "Light made by a chemical reaction to attract or distract",
@@ -163,7 +155,7 @@ function scr_get_quiz_data(quiz_id) {
                  "Changing body temperature to adapt "],
                 1
             ],
-            // c) Starfish decline
+            // c) Pollution
             ["Why is there a lack of dissolved oxygen in the water?",
                 ["Too much sunlight",
                  "Excess salt in the water",
@@ -171,18 +163,18 @@ function scr_get_quiz_data(quiz_id) {
                  "Pollution and temperature changes"],
                 3
             ],
-            // d) Blue whale
+            // d) Eel
             ["How do electric eels utilize their electricity?",
                 ["To light up dark waters", "To attract mates", "To defend, hunt, and navigate",
                  "To power their gills"],
                 2
             ],
-            // f) Fish memory
+            // f) Fish sleep
             ["How do fish sleep ?",
                 ["They sleep with their eyes open", "They never rest at all", "They hibernate like bears", "They enter a low-activity resting stage"],
                 3
             ],
-            // g) Electroreceptors
+            // g) Fish color
             ["What factors cause fish to change their color?",
                 ["Camouflage, environment, and seasons", "Water pressure and speed", "Mood and diet", "Light from the sun"],
                 0

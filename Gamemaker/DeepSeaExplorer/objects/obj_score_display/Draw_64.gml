@@ -3,7 +3,8 @@
 var mgr = instance_find(obj_quiz_manager, 0);
 if (mgr != noone) {
     // Check if the quiz is active and draw accordingly
-    if (mgr.quiz_active) {		
+    if (mgr.quiz_active) {	
+		
 		// Define parameters for the background box.
         var box_margin = 20;                                 // horizontal margin from the edges
         var box_top = 10;                                    // top of the box

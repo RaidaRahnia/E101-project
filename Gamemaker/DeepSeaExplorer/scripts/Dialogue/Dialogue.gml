@@ -92,7 +92,7 @@ turtle_dialog = [
 whale_shark_dialog = [
 {
     name: "Whale Shark",
-    msg: "They are the largest fish in the world and are generally considered to be harmless for humans!  " 
+    msg: "They are the largest fish in the world and are generally considered to be harmless for humans!" 
 },
 
 ]
@@ -100,7 +100,7 @@ whale_shark_dialog = [
 shrimp_dialog = [
 {
     name: "Shrimp",
-    msg: "Shrimps are omnivores, meaning they eat both plants and animals. " 
+    msg: "Shrimps are omnivores, meaning they eat both plants and animals." 
 },
 
 {
@@ -181,12 +181,12 @@ fish3_dialog = [
 fish4_dialog = [
 {
     name: "Fun Fact!",
-    msg: "Fish rely on dissolved oxygen to breath. " 
+    msg: "Fish rely on dissolved oxygen to breathe. " 
 },
 
 {
     name: "Fun Fact!",
-    msg: "If the water does not contain enough oxygen due to pollution, temperature changes, then fish can die." 
+    msg: "If the water does not contain enough oxygen due to pollution and temperature changes, then fish can die." 
 },
 
 
@@ -195,7 +195,7 @@ fish4_dialog = [
 fish1_dialog = [
 {
     name: "Fun Fact!",
-    msg: "Fishes communicate with each other in a variety of ways, including chirping, body movements, using their swim bladder, and in some cases, electrical impulses." 
+    msg: "Fishes communicate with each other in a variety of ways including chirping, body movements, using their swim bladder, and in some cases, electrical impulses." 
 },
 
 ]
@@ -203,7 +203,7 @@ fish1_dialog = [
 fish6_dialog = [
 {
     name: "Fun Fact!",
-    msg: "Some fishes are also known to change colours depending on camouflage needs, environmental conditions and time of the year." 
+    msg: "Some fishes are also known to change colours depending on camouflage needs, environmental conditions, and time of the year." 
 },
 
 
@@ -302,7 +302,7 @@ can_dialog = [
 sea_otter_dialog = [
 {
     name: "Sea Otter",
-    msg: "Sea otters are keystone species for kelp forests–meaning they are a species that the ecosystem heavily depends on. "
+    msg: "Sea otters are keystone species for kelp forests- meaning they are a species that the ecosystem heavily depends on. "
 },
 
 {
@@ -312,7 +312,7 @@ sea_otter_dialog = [
 
 {
     name: "Sea Otter",
-    msg: "Sea otters control sea urchin populations so they don’t overgraze on kelp!"
+    msg: "Sea otters control sea urchin populations so they don't overgraze on kelp!"
 },
 
 ]
@@ -378,12 +378,12 @@ crab_dialog = [
 stingray_dialog = [
 {
     name: "Stingray",
-    msg: " Kelp forest stingrays are expert masters of disguise—they flatten their diamond‑shaped bodies against the sandy seafloor and gently burrow into the sediment, leaving only their eyes and spiracles exposed."
+    msg: " Kelp forest stingrays are expert masters of disguise. They flatten their diamond-shaped bodies against the sandy seafloor and gently burrow into the sediment, leaving only their eyes and spiracles exposed."
 },
 
 {
     name: "Stingray",
-    msg: "This clever “sand‑burrow” camouflage lets them vanish from both predators and unsuspecting prey!"
+    msg: "This clever \"sand-burrow\" camouflage lets them vanish from both predators and unsuspecting prey!"
 },
 
 
@@ -392,7 +392,7 @@ stingray_dialog = [
 seahorse_dialog = [
 {
     name: "Seahorse",
-    msg: "Seahorses sport truly remarkable prehensile tails—think of them as a built‑in grappling hook!"
+    msg: "Seahorses sport truly remarkable prehensile tails- think of them as a built-in grappling hook!"
 },
 
 {
@@ -416,9 +416,3 @@ eel_dialog = [
 
 
 ]
-
-
-
-
-
-

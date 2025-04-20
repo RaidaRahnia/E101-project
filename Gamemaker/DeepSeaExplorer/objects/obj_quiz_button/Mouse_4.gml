@@ -8,7 +8,7 @@ if (manager != noone) {
 // obj_quiz_button: Mouse Left Pressed Event
 var rect_x = x;
 var rect_y = y;
-var box_width = 400;
+var box_width = 720;
 var box_height = 50;
 
 // Get mouse position in room coordinates.

@@ -39,7 +39,8 @@ quiz_answer_selected = function(chosen_index) {
 /// @description Starts the quiz (called when the submarine collides with a chest)
 function start_quiz() {
     quiz_active = true;
-    
+	
+    instance_destroy(obj_interaction);
     with (obj_back_button) {
     instance_destroy();
     } 
