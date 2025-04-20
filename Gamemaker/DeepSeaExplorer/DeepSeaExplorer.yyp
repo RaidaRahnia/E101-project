@@ -56,6 +56,7 @@
     {"id":{"name":"font_default","path":"fonts/font_default/font_default.yy",},},
     {"id":{"name":"font_dialog","path":"fonts/font_dialog/font_dialog.yy",},},
     {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},},
+    {"id":{"name":"font_popup","path":"fonts/font_popup/font_popup.yy",},},
     {"id":{"name":"font_question","path":"fonts/font_question/font_question.yy",},},
     {"id":{"name":"font_score","path":"fonts/font_score/font_score.yy",},},
     {"id":{"name":"obj_anglerfish","path":"objects/obj_anglerfish/obj_anglerfish.yy",},},

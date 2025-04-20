@@ -18,7 +18,7 @@ draw_set_valign(fa_middle);
 
 
 // Use custom font if you have one
-// draw_set_font(fnt_ui_cartoon); // optional
+draw_set_font(font_popup); // optional
 
 var center_x = x1 + w / 2;
 var center_y = y1 + h / 2;

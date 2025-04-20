@@ -4,6 +4,7 @@
         // Adjust Y coordinate as needed (here at 30)
    
         draw_set_font(font_question);  // Assuming font_question has been defined already.
+        //draw_set_color(c_aqua);
         
 		var question_center_x = (display_get_gui_width() - string_width(title)) / 2;
             
