@@ -144,7 +144,7 @@ fish5_dialog = [
 
 {
     name: "Fishy Fact",
-    msg: "Unlike mammals, fish don’t experience sleep." 
+    msg: "Unlike mammals, fish don't experience sleep." 
 },
 
 {
@@ -157,12 +157,7 @@ fish5_dialog = [
 
 fish2_dialog = [
 {
-    name: "Fun Fact!",
-    msg: "There is a myth that goldfish have a three-second memory." 
-},
-
-{
-    name: "Fun Fact!",
+    name: "Fishy Fact",
     msg: "Studies show that fish can remember things for months, even years and show sophisticated behaviours based on their learning." 
 },
 

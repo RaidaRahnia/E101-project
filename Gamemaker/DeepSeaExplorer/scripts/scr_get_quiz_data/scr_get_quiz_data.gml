@@ -170,7 +170,7 @@ function scr_get_quiz_data(quiz_id) {
                 2
             ],
             // f) Fish sleep
-            ["How do fish sleep ?",
+            ["How do fish sleep?",
                 ["They sleep with their eyes open", "They never rest at all", "They hibernate like bears", "They enter a low-activity resting stage"],
                 3
             ],
