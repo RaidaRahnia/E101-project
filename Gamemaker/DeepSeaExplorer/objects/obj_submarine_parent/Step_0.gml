@@ -1,7 +1,10 @@
 if(instance_exists(obj_dialog)) exit;
     
-if(!instance_exists(obj_treasure_box)) exit;
+//if(!instance_exists(obj_treasure_box)) exit;
     
+var mgr = instance_find(obj_quiz_manager, 0);
+if (mgr != noone && mgr.quiz_active) exit;
+
 // Move up
 if keyboard_check(vk_up) {
     if y > 0 {

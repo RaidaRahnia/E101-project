@@ -1,3 +1,7 @@
+var quiz_mgr = instance_find(obj_quiz_manager, 0);
+if (quiz_mgr != noone && quiz_mgr.quiz_active) {
+    exit;
+}
 // obj_chest: Step Event
 
 // --- 1) Proximity & icon logic --------------------------------------
@@ -42,12 +46,15 @@ if (confirming_quiz) {
     // Confirm
     else if (keyboard_check_pressed(ord("Y"))) {
         confirming_quiz = false;
-		
+		can_trigger_quiz = false;
 		
 		// === Begin your original trigger‑quiz code ===
         var quiz_manager = instance_find(obj_quiz_manager, 0);
         if (quiz_manager != noone && !quiz_manager.quiz_active) {
             quiz_manager.start_quiz();
+			if (quiz_manager.quiz_active) {
+					
+			}
         } else if (quiz_manager == noone) {
            show_debug_message("No quiz manager found — creating new one");
             quiz_manager = instance_create_layer(672, 480, "Instances", obj_quiz_manager);
@@ -58,7 +65,7 @@ if (confirming_quiz) {
             instance_destroy(interaction);
         }
 		
-		can_trigger_quiz = false;
+		
         
         // Destroy the chest itself
         //instance_destroy();

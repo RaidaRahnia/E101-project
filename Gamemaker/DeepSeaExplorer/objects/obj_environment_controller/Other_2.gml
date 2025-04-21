@@ -13,4 +13,3 @@ var new_y = (displayH - windowH) / 2;
 
 // Set the window's position.
 window_set_position(new_x, new_y);
-
