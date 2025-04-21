@@ -387,7 +387,7 @@ stingray_dialog = [
 seahorse_dialog = [
 {
     name: "Seahorse",
-    msg: "Seahorses sport truly remarkable prehensile tails- think of them as a built-in grappling hook!"
+    msg: "Seahorses sport truly remarkable prehensile tails; think of them as a built-in grappling hook!"
 },
 
 {
