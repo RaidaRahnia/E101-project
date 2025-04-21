@@ -88,6 +88,7 @@
     {"id":{"name":"obj_interaction_icon","path":"objects/obj_interaction_icon/obj_interaction_icon.yy",},},
     {"id":{"name":"obj_interaction","path":"objects/obj_interaction/obj_interaction.yy",},},
     {"id":{"name":"obj_jellyfish","path":"objects/obj_jellyfish/obj_jellyfish.yy",},},
+    {"id":{"name":"obj_keep_exploring_button","path":"objects/obj_keep_exploring_button/obj_keep_exploring_button.yy",},},
     {"id":{"name":"Obj_Music_rm_1","path":"objects/Obj_Music_rm_1/Obj_Music_rm_1.yy",},},
     {"id":{"name":"Obj_Music_rm_2","path":"objects/Obj_Music_rm_2/Obj_Music_rm_2.yy",},},
     {"id":{"name":"obj_Music_rm_3","path":"objects/obj_Music_rm_3/obj_Music_rm_3.yy",},},

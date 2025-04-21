@@ -61,6 +61,8 @@ if (quiz_state == "finished") {
                                               obj_retry_button);
 											  audio_stop_all();
 											  audio_play_sound(Battle_Crowd_Celebrate_Stutter,0,false,1,18);
+        
+        var explore_btn = instance_create_layer(room_width * 0.5, room_height * 0.5 + 100, "UI", obj_keep_exploring_button);
 											  
     }
     

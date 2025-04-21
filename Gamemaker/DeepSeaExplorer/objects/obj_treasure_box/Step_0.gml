@@ -46,7 +46,9 @@ if (confirming_quiz) {
         if (quiz_manager != noone && !quiz_manager.quiz_active) {
             quiz_manager.start_quiz();
         } else if (quiz_manager == noone) {
-            show_debug_message("Error: obj_quiz_manager not found!");
+           show_debug_message("No quiz manager found — creating new one");
+            quiz_manager = instance_create_layer(672, 480, "Instances", obj_quiz_manager);
+            quiz_manager.start_quiz();
         }
         // Clean up: remove icon and disable retrigger
         if (instance_exists(interaction)) {

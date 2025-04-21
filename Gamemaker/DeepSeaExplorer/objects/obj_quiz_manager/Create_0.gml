@@ -39,6 +39,8 @@ quiz_answer_selected = function(chosen_index) {
 /// @description Starts the quiz (called when the submarine collides with a chest)
 function start_quiz() {
     quiz_active = true;
+    global.retrying_quiz = false;
+
 	
     instance_destroy(obj_interaction);
     with (obj_back_button) {
@@ -59,5 +61,35 @@ function start_quiz() {
         btn.manager = id;                   // Link button to this quiz manager
         btn.button_text = quiz_data[current_question][1][i];  // Set initial answer text
         answer_buttons[i] = btn;            // Store the button instance in the array
+    }
+}
+
+/// Reset the quiz to initial state
+function reset_quiz() {
+    current_question = 0;
+    score = 0;
+    selected_answer = -1;
+    quiz_state = "waiting";
+    quiz_active = true;
+
+    // Destroy old buttons if they still exist
+    for (var i = 0; i < array_length(answer_buttons); i++) {
+        if (instance_exists(answer_buttons[i])) {
+            instance_destroy(answer_buttons[i]);
+        }
+    }
+    answer_buttons = [];
+
+    // Recreate the buttons for question 1
+    var start_x = 100;
+    var start_y = 300;
+    var spacing = 60;
+
+    for (var i = 0; i < 4; i++) {
+        var btn = instance_create_layer(start_x, start_y + i * spacing, "Instances", obj_quiz_button);
+        btn.btn_index = i;
+        btn.manager = id;
+        btn.button_text = quiz_data[0][1][i];
+        answer_buttons[i] = btn;
     }
 }
