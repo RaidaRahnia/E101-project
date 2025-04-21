@@ -41,7 +41,10 @@ if (confirming_quiz) {
     }
     // Confirm
     else if (keyboard_check_pressed(ord("Y"))) {
-        // === Begin your original trigger‑quiz code ===
+        confirming_quiz = false;
+		
+		
+		// === Begin your original trigger‑quiz code ===
         var quiz_manager = instance_find(obj_quiz_manager, 0);
         if (quiz_manager != noone && !quiz_manager.quiz_active) {
             quiz_manager.start_quiz();
@@ -50,14 +53,16 @@ if (confirming_quiz) {
             quiz_manager = instance_create_layer(672, 480, "Instances", obj_quiz_manager);
             quiz_manager.start_quiz();
         }
-        // Clean up: remove icon and disable retrigger
+        //Clean up: remove icon and disable retrigger
         if (instance_exists(interaction)) {
             instance_destroy(interaction);
         }
-        can_trigger_quiz = false;
+		
+		can_trigger_quiz = false;
+        
         // Destroy the chest itself
-        instance_destroy();
+        //instance_destroy();
         // === End original code ===
-        confirming_quiz = false;  
+          
     }
 }

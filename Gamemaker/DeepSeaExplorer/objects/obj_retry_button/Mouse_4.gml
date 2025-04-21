@@ -6,5 +6,9 @@ if (instance_exists(obj_quiz_manager)) {
     }
 }
 
+if (instance_exists(obj_keep_exploring_button)) {
+    with (obj_keep_exploring_button) instance_destroy();
+}
+
 // Destroy this retry button after pressing
 instance_destroy();
