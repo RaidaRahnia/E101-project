@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":249.52162,
+  "duration":249.52164,
   "name":"Water_Lapping_Wind_409",
   "parent":{
     "name":"Sounds",

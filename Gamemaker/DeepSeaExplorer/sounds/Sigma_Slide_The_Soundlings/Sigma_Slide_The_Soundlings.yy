@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"Sigma_Slide_The_Soundlings",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":3,
+  "conversionMode":0,
+  "duration":138.4,
+  "name":"Sigma_Slide_The_Soundlings",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Sigma_Slide_The_Soundlings.mp3",
+  "type":0,
+  "volume":1.0,
+}
