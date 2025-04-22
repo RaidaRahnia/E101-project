@@ -39,12 +39,12 @@ char_colors = {
 jellyfish_dialog = [
 {
     name: "Jellyfish",
-    msg: "Jellyfish are about 95% to 98% water and don't actually have a brain, heart, or lungs." 
+    msg: "Jellyfish are about 95% to 98% water and don't actually have a brain, heart, or lungs. [Press Space to Continue]" 
 },
 
 {
     name: "Fun Fact!",
-    msg: "Lots of jellyfish have a very short lifespan but one, Turritopsis dohrnii, is an immortal jellyfish that can restart it's life cycle when under stress or grows old."
+    msg: "Lots of jellyfish have a very short lifespan but one, Turritopsis dohrnii, is an immortal jellyfish that can restart it's life cycle when under stress or grows old. [Press Space to Continue]"
 },
 
 ]
@@ -53,25 +53,21 @@ jellyfish_dialog = [
 seaweed_dialog = [
 {
     name: "Seaweed",
-    msg: "These plants are incredibly important to human health and the ecosystem as they are responsible for a majority of the oxygen we breathe." 
+    msg: "These plants are incredibly important to human health and the ecosystem as they are responsible for a majority of the oxygen we breathe. [Press Space to Continue]" 
 },
 
-{
-    name: "Seaweed",
-    msg: "They also form the base for the food chain in a lot of marine ecosystems."
-},
 
 ]
 
 shark_dialog = [
 {
     name: "Shark",
-    msg: "Although a lot of humans are afraid of sharks, they are actually a vital part of the ecosystem." 
+    msg: "Although a lot of humans are afraid of sharks, they are actually a vital part of the ecosystem. [Press Space to Continue]" 
 },
 
 {
     name: "Shark",
-    msg: "They regulate prey populations and ensure they don't overpopulate and throw off an ecosystem's balance."
+    msg: "They regulate prey populations and ensure they don't overpopulate and throw off an ecosystem's balance. [Press Space to Continue]"
 },
 
 ]
@@ -79,20 +75,21 @@ shark_dialog = [
 turtle_dialog = [
 {
     name: "Turtle",
-    msg: "Turtles are reptiles, meaning they have scaly skins covering their body and mostly lay eggs." 
+    msg: "Turtles are reptiles, meaning they have scaly skins covering their body and mostly lay eggs. [Press Space to Continue]" 
 },
 
+ /*
 {
     name: "Sad Fact :(",
     msg: "Only 1 out of 1000 can reach adulthood because as juveniles they are very vulnerable to predators."
-},
+},*/
 
 ]
 
 whale_shark_dialog = [
 {
     name: "Whale Shark",
-    msg: "They are the largest fish in the world and are generally considered to be harmless for humans!" 
+    msg: "They are the largest fish in the world and are generally considered to be harmless for humans! [Press Space to Continue]" 
 },
 
 ]
@@ -100,25 +97,26 @@ whale_shark_dialog = [
 shrimp_dialog = [
 {
     name: "Shrimp",
-    msg: "Shrimps are omnivores, meaning they eat both plants and animals." 
+    msg: "Shrimps are omnivores, meaning they eat both plants and animals. [Press Space to Continue]" 
 },
 
+/*
 {
     name: "Fun Fact!",
     msg: "There are thousands of species of shrimp; some of them are incredibly strong and can even break aquarium glass with their powerful strikes!"
-},
+},*/
 
 ]
 
 plastic_rings_dialog = [
 {
     name: "Plastic Rings",
-    msg: "These are notorious for killing our ocean friends when they get stuck in them and can't breathe! " 
+    msg: "These are notorious for killing our ocean friends when they get stuck in them and can't breathe! [Press Space to Continue] " 
 },
 
 {
     name: "Plastic Rings",
-    msg: "It is beneficial to recycle them through in-store recycling, but if not, make sure to cut up all the tight parts before throwing them in the trash."
+    msg: "It is beneficial to recycle them through in-store recycling, but if not, make sure to cut up all the tight parts before throwing them in the trash. [Press Space to Continue]"
 },
 
 ]
@@ -126,12 +124,12 @@ plastic_rings_dialog = [
 dolphin_dialog = [
 {
     name: "Dolphin",
-    msg: "Dolphins communicate with each other through echolocation! " 
+    msg: "Dolphins communicate with each other through echolocation! [Press Space to Continue] " 
 },
 
 {
     name: "Dolphin",
-    msg: "They can navigate by emitting sounds and sensing the sound waves that bounce off objects around them. "
+    msg: "They can navigate by emitting sounds and sensing the sound waves that bounce off objects around them. [Press Space to Continue]"
 },
 
 ]
@@ -139,17 +137,17 @@ dolphin_dialog = [
 fish5_dialog = [
 {
     name: "Fishy Fact",
-    msg: "Have you ever wondered how fish sleep underwater? " 
+    msg: "Have you ever wondered how fish sleep underwater? [Press Space to Continue]" 
 },
 
 {
     name: "Fishy Fact",
-    msg: "Unlike mammals, fish don't experience sleep." 
+    msg: "Unlike mammals, fish don't experience sleep. [Press Space to Continue]" 
 },
 
 {
     name: "Fishy Fact",
-    msg: "Instead they enter a resting stage to reduce their activity and conserve energy." 
+    msg: "Instead they enter a resting stage to reduce their activity and conserve energy. [Press Space to Continue]" 
 },
 
 
@@ -158,7 +156,7 @@ fish5_dialog = [
 fish2_dialog = [
 {
     name: "Fishy Fact",
-    msg: "Studies show that fish can remember things for months, even years and show sophisticated behaviours based on their learning." 
+    msg: "Studies show that fish can remember things for months, even years and show sophisticated behaviours based on their learning. [Press Space to Continue]" 
 },
 
 
@@ -167,7 +165,7 @@ fish2_dialog = [
 fish3_dialog = [
 {
     name: "Fun Fact!",
-    msg: "Some fish have specialized organs called electroreceptors that can help them to track their prey by detecting electrical signals in the water." 
+    msg: "Some fish have specialized organs called electroreceptors that can help them to track their prey by detecting electrical signals in the water. [Press Space to Continue]" 
 },
 
 
@@ -176,12 +174,12 @@ fish3_dialog = [
 fish4_dialog = [
 {
     name: "Fun Fact!",
-    msg: "Fish rely on dissolved oxygen to breathe. " 
+    msg: "Fish rely on dissolved oxygen to breathe. [Press Space to Continue]" 
 },
 
 {
     name: "Fun Fact!",
-    msg: "If the water does not contain enough oxygen due to pollution and temperature changes, then fish can die." 
+    msg: "If the water does not contain enough oxygen due to pollution and temperature changes, then fish can die. [Press Space to Continue]" 
 },
 
 
@@ -190,7 +188,7 @@ fish4_dialog = [
 fish1_dialog = [
 {
     name: "Fun Fact!",
-    msg: "Fishes communicate with each other in a variety of ways including chirping, body movements, using their swim bladder, and in some cases, electrical impulses." 
+    msg: "Fishes communicate with each other in a variety of ways including chirping, body movements, using their swim bladder, and in some cases, electrical impulses. [Press Space to Continue]" 
 },
 
 ]
@@ -198,7 +196,7 @@ fish1_dialog = [
 fish6_dialog = [
 {
     name: "Fun Fact!",
-    msg: "Some fishes are also known to change colours depending on camouflage needs, environmental conditions, and time of the year." 
+    msg: "Some fishes are also known to change colours depending on camouflage needs, environmental conditions, and time of the year. [Press Space to Continue]" 
 },
 
 
@@ -207,12 +205,12 @@ fish6_dialog = [
 octopus_dialog = [
 {
     name: "Octopus",
-    msg: "Did you know octopi are incredibly intelligent?" 
+    msg: "Did you know octopi are incredibly intelligent? [Press Space to Continue]" 
 },
 
 {
     name: "Octopus",
-    msg: "They are able to problem solve, learn, memorize, and communicate in their own ways." 
+    msg: "They are able to problem solve, learn, memorize, and communicate in their own ways. [Press Space to Continue]" 
 },
 
 
@@ -221,7 +219,7 @@ octopus_dialog = [
 starfish_dialog = [
 {
     name: "Sad Fact :(",
-    msg: "Starfish population has been decreasing significantly due to ocean warming and diseases like sea star wasting syndrome, which causes their limbs to decay." 
+    msg: "Starfish population has been decreasing significantly due to ocean warming and diseases like sea star wasting syndrome, which causes their limbs to decay. [Press Space to Continue]" 
 },
 
 ]
@@ -230,17 +228,17 @@ whale_dialog = [
 
 {
     name: "Blue Whale",
-    msg: "Whales are some of the biggest mammals on earth. " 
+    msg: "Whales are some of the biggest mammals on earth. [Press Space to Continue] " 
 },
 
 {
     name: "Blue Whale",
-    msg: "The blue whale specifically is actually the largest animal to be living on Earth right now." 
+    msg: "The blue whale specifically is actually the largest animal to be living on Earth right now. [Press Space to Continue]" 
 },
 
 {
     name: "Fun Fact!",
-    msg: "Believe it or not, whales actually have hair!" 
+    msg: "Believe it or not, whales actually have hair! [Press Space to Continue]" 
 },
 
 ]
@@ -248,12 +246,12 @@ whale_dialog = [
 anglerfish_dialog = [
 {
     name: "Angler Fish",
-    msg: "Angler fish are also scavengers, an important class of organisms in ecosystems that eat dead or discarded organic matter (like vultures)." 
+    msg: "Angler fish are also scavengers, an important class of organisms in ecosystems that eat dead or discarded organic matter (like vultures). [Press Space to Continue]" 
 },
 
 {
     name: "Fun Fact!",
-    msg: "Angler Fish help break down dead plants and animals and keep the biome healthy! " 
+    msg: "Angler Fish help break down dead plants and animals and keep the biome healthy! [Press Space to Continue] " 
 },
 
 
@@ -262,17 +260,17 @@ anglerfish_dialog = [
 vampire_squid_dialog = [
 {
     name: "Vampire Squid",
-    msg: "In the midnight zone of the ocean (the depth at which no light reaches), various animals utilize bioluminescence to see and attract prey." 
+    msg: "In the midnight zone of the ocean (the depth at which no light reaches), various animals utilize bioluminescence to see and attract prey. [Press Space to Continue]" 
 },
 
 {
     name: "Vampire Squid",
-    msg: "Bioluminescence is the emission of light by an organism through a chemical reaction." 
+    msg: "Bioluminescence is the emission of light by an organism through a chemical reaction. [Press Space to Continue]" 
 },
 
 {
     name: "Fun Fact!",
-    msg: "The vampire squid uses bioluminescence to attract prey and can eject a cloud of bioluminescent mucus to distract and escape predators." 
+    msg: "The vampire squid uses bioluminescence to attract prey and can eject a cloud of bioluminescent mucus to distract and escape predators. [Press Space to Continue]" 
 },
 
 
@@ -281,12 +279,12 @@ vampire_squid_dialog = [
 can_dialog = [
 {
     name: "Sad Fact :(",
-    msg: "Unfortunately, a lot of trash gets put into the ocean such as the Great Pacific Garbage Patch." 
+    msg: "Unfortunately, a lot of trash gets put into the ocean such as the Great Pacific Garbage Patch. [Press Space to Continue]" 
 },
 
 {
     name: "Sad Fact :(",
-    msg: "This is incredibly harmful to the ocean and kills a lot of organisms." 
+    msg: "This is incredibly harmful to the ocean and kills a lot of organisms.[Press Space to Continue]" 
 },
 
 
@@ -297,17 +295,12 @@ can_dialog = [
 sea_otter_dialog = [
 {
     name: "Sea Otter",
-    msg: "Sea otters are keystone species for kelp forests- meaning they are a species that the ecosystem heavily depends on. "
+    msg: "Sea otters are keystone species for kelp forests- meaning they are a species that the ecosystem heavily depends on. [Press Space to Continue]"
 },
 
 {
     name: "Sea Otter",
-    msg: "If keystone species were to disappear, that ecosystem would change drastically! "
-},
-
-{
-    name: "Sea Otter",
-    msg: "Sea otters control sea urchin populations so they don't overgraze on kelp!"
+    msg: "If keystone species were to disappear, that ecosystem would change drastically! [Press Space to Continue]"
 },
 
 ]
@@ -315,18 +308,14 @@ sea_otter_dialog = [
 sea_lion_dialog = [
 {
     name: "Sea Lion",
-    msg: "Did you know that sea lions molt similar to snakes or arachnids?"
+    msg: "Did you know that sea lions molt similar to snakes or arachnids? [Press Space to Continue]"
 },
 
 {
     name: "Sea Lion",
-    msg: "They molt once of year to shed their fur and outer layer of skin to grow a newer and healthier coat."
+    msg: "They molt once of year to shed their fur and outer layer of skin to grow a newer and healthier coat.[Press Space to Continue]"
 },
 
-{
-    name: "Sea Lion",
-    msg: "The new fur and skin can protect them from injury, UV rays, and maintain their hydrodynamic properties."
-},
 
 
 ]
@@ -336,12 +325,12 @@ sea_lion_dialog = [
 sea_urchin_dialog = [
 {
     name: "Sea Urchin",
-    msg: "Sea urchins are rapidly consuming and mowing down kelp forests due to a decline in predator populations like sea stars and sea otters. "
+    msg: "Sea urchins are rapidly consuming and mowing down kelp forests due to a decline in predator populations like sea stars and sea otters. [Press Space to Continue]"
 },
 
 {
     name: "Hope!",
-    msg: "Scientists are working on controlling their population before kelp forests are completely devoured due to the ecosystem imbalance."
+    msg: "Scientists are working on controlling their population before kelp forests are completely devoured due to the ecosystem imbalance. [Press Space to Continue]"
 },
 
 
@@ -352,17 +341,17 @@ sea_urchin_dialog = [
 crab_dialog = [
 {
     name: "Crab",
-    msg: "Crabs are called decapods because they actually have ten legs, counting their claws/pincers. "
+    msg: "Crabs are called decapods because they actually have ten legs, counting their claws/pincers. [Press Space to Continue]"
 },
 
 {
     name: "Crab",
-    msg: "Most decapods are scavenger crustaceans."
+    msg: "Most decapods are scavenger crustaceans. [Press Space to Continue]"
 },
 
 {
     name: "Crab",
-    msg: "Since these legs are primarily on the side of their bodies, they move extremely fast sideways rather than forward or backward."
+    msg: "Since these legs are primarily on the side of their bodies, they move extremely fast sideways rather than forward or backward. [Press Space to Continue]"
 },
 
 
@@ -373,12 +362,12 @@ crab_dialog = [
 stingray_dialog = [
 {
     name: "Stingray",
-    msg: "Kelp forest stingrays are expert masters of disguise. They flatten their diamond-shaped bodies against the sandy seafloor and gently burrow into the sediment, leaving only their eyes and spiracles exposed."
+    msg: "Kelp forest stingrays are expert masters of disguise. They flatten their diamond-shaped bodies against the sandy seafloor and gently burrow into the sediment, leaving only their eyes and spiracles exposed. [Press Space to Continue]"
 },
 
 {
     name: "Stingray",
-    msg: "This clever \"sand-burrow\" camouflage lets them vanish from both predators and unsuspecting prey!"
+    msg: "This clever \"sand-burrow\" camouflage lets them vanish from both predators and unsuspecting prey! [Press Space to Continue]"
 },
 
 
@@ -387,12 +376,12 @@ stingray_dialog = [
 seahorse_dialog = [
 {
     name: "Seahorse",
-    msg: "Seahorses sport truly remarkable prehensile tails; think of them as a built-in grappling hook!"
+    msg: "Seahorses sport truly remarkable prehensile tails; think of them as a built-in grappling hook! [Press Space to Continue]"
 },
 
 {
     name: "Seahorse",
-    msg: "They wrap that tail tightly around kelp blades or coral branches to anchor themselves in place, letting them hang on securely in swirling currents while they patiently hunt tiny plankton."
+    msg: "They wrap that tail tightly around kelp blades or coral branches to anchor themselves in place, letting them hang on securely in swirling currents while they patiently hunt tiny plankton. [Press Space to Continue]"
 },
 
 
@@ -401,12 +390,12 @@ seahorse_dialog = [
 eel_dialog = [
 {
     name: "Eel",
-    msg: "Electric eels can produce up to 600V of electricity!"
+    msg: "Electric eels can produce up to 600V of electricity! [Press Space to Continue]"
 },
 
 {
     name: "Eel",
-    msg: "They mainly use their shocking abilities to defend themselves, subdue predators, or navigate waters."
+    msg: "They mainly use their shocking abilities to defend themselves, subdue predators, or navigate waters. [Press Space to Continue]"
 },
 
 
