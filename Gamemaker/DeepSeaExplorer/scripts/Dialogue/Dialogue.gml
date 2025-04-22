@@ -362,7 +362,7 @@ crab_dialog = [
 
 {
     name: "Crab",
-    msg: "Because these legs are primarily on the side of their bodies, they move extremely fast sideways rather than forward or backward."
+    msg: "Since these legs are primarily on the side of their bodies, they move extremely fast sideways rather than forward or backward."
 },
 
 
@@ -373,7 +373,7 @@ crab_dialog = [
 stingray_dialog = [
 {
     name: "Stingray",
-    msg: " Kelp forest stingrays are expert masters of disguise. They flatten their diamond-shaped bodies against the sandy seafloor and gently burrow into the sediment, leaving only their eyes and spiracles exposed."
+    msg: "Kelp forest stingrays are expert masters of disguise. They flatten their diamond-shaped bodies against the sandy seafloor and gently burrow into the sediment, leaving only their eyes and spiracles exposed."
 },
 
 {
